@@ -1,0 +1,38 @@
+package application;
+
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.image.Image;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.Stop;
+import javafx.application.Application;
+import javafx.stage.Stage;
+
+public class ForgotUserNameGUI {
+	
+	ForgotUserNameGUI(Group root)
+	{
+		
+		//Here is the scene/root/stage (GUI) set up
+		Group forgotUserNameRoot = new Group(); // A root is the objects that make up the scene
+		LinearGradient pagreGradient = new LinearGradient(
+		        0, 0,
+		        0, 1,
+		        true,
+		        CycleMethod.NO_CYCLE,
+		        new Stop(0, Color.web("#F7FAFC")),
+		        new Stop(1, Color.web("#234C6B")));
+		Scene scene = new Scene(root,pagreGradient); //A scene is comparable to a panel
+		Image icon = new Image("TFPDLogoFull.jpg");
+		forgotUserName.getIcons().add(icon);
+		forgotUserName.setTitle("Welcome to TFPD Manager DB");
+		forgotUserName.setResizable(false);
+		
+		forgotUserName.setWidth(500);
+		forgotUserName.setHeight(750);
+		
+	}
+
+}

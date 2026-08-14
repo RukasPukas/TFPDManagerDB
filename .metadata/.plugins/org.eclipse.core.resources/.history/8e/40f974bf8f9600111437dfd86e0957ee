@@ -1,0 +1,178 @@
+package application;
+	
+import javafx.application.Application;
+import javafx.stage.Stage;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.TextArea;
+import javafx.scene.control.TextField;
+import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.Stop;
+import javafx.scene.shape.Line;
+import javafx.scene.shape.Rectangle;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+
+
+public class Main extends Application {
+
+
+	
+	public static void main(String[] args) {
+		launch(args); //static method inherited from the Application parent class
+	}
+
+	
+	public void start(Stage launchStage) throws Exception {
+		
+		
+	//Here is the scene/root/stage (GUI) set up
+		Group root = new Group(); // A root is the objects that make up the scene
+		LinearGradient pagreGradient = new LinearGradient(
+		        0, 0,
+		        0, 1,
+		        true,
+		        CycleMethod.NO_CYCLE,
+		        new Stop(0, Color.web("#F7FAFC")),
+		        new Stop(1, Color.web("#234C6B")));
+		Scene scene = new Scene(root,pagreGradient); //A scene is comparable to a panel
+		Image icon = new Image("TFPDLogoFull.jpg");
+		launchStage.getIcons().add(icon);
+		launchStage.setTitle("Welcome to TFPD Manager DB");
+		launchStage.setResizable(false);
+		
+		launchStage.setWidth(500);
+		launchStage.setHeight(750);
+		
+		
+		//logo background border
+		/*
+		Rectangle logoRectangle = new Rectangle();
+		logoRectangle.setX(30);
+		logoRectangle.setY(15);
+		logoRectangle.setHeight(60);
+		logoRectangle.setWidth(440);
+		LinearGradient headerGradient = new LinearGradient(
+		        0, 0,
+		        0, 1,
+		        true,
+		        CycleMethod.NO_CYCLE,
+		        new Stop(0, Color.web("#8BADC4")),
+		        new Stop(1, Color.web("#234C6B")));
+		logoRectangle.setFill(headerGradient);
+		logoRectangle.setArcWidth(30);
+		logoRectangle.setArcHeight(30);
+		//root.getChildren().add(logoRectangle);
+		/// 
+		 */
+		
+		
+		//set tfpdHeaderText
+		Text tfpdHeaderText = new Text();
+		tfpdHeaderText.setText("TFPD Manager DB");
+		tfpdHeaderText.setFont(Font.font("Menlo", FontWeight.BOLD, 44));
+		tfpdHeaderText.setY(50);
+		LinearGradient logoTextGradient = new LinearGradient(
+		        0, 0,
+		        0, 1,
+		        true,
+		        CycleMethod.NO_CYCLE,
+		        new Stop(0, Color.web("#39414d")),
+		        new Stop(1, Color.web("#4872b5")));
+		tfpdHeaderText.setFill(logoTextGradient);
+		tfpdHeaderText.setX((500 - tfpdHeaderText.getLayoutBounds().getWidth()) / 2);
+		tfpdHeaderText.setY(60);
+		root.getChildren().add(tfpdHeaderText);
+		
+		
+		
+		//set TFPD Logo Image onto scene
+		Image logoImage = new Image("TFPDLogoFull.jpg");
+		ImageView logoView = new ImageView(logoImage);
+		logoView.setFitWidth(200);
+		logoView.setPreserveRatio(true);
+		logoView.setLayoutX(150);
+		logoView.setLayoutY(100);
+		// Determine the displayed height based on image ratio
+		double logoHeight = 200 * logoImage.getHeight() / logoImage.getWidth();
+		// Rounded clip will round the corners
+		Rectangle clip = new Rectangle(200, logoHeight);
+		clip.setArcWidth(30);
+		clip.setArcHeight(30);
+		logoView.setClip(clip);
+		root.getChildren().add(logoView);
+		
+		
+		//Line section
+		Line divisionLine = new Line();
+		divisionLine.setStartX(40);
+		divisionLine.setStartY(350);
+		divisionLine.setEndX(460);
+		divisionLine.setEndY(350);
+		divisionLine.setStrokeWidth(5);
+		divisionLine.setStroke(Color.web("#364e75"));
+		root.getChildren().add(divisionLine);
+		
+		
+		
+		
+		
+		//login area rectangle
+		Rectangle loginRectangle = new Rectangle();
+		loginRectangle.setX(65);
+		loginRectangle.setY(375);
+		loginRectangle.setHeight(250);
+		loginRectangle.setWidth(360);
+		LinearGradient loginGradient = new LinearGradient(
+		        0, 0,
+		        0, 1,
+		        true,
+		        CycleMethod.NO_CYCLE,
+		        new Stop(0, Color.web("#f7f8fa")),
+		        new Stop(1, Color.web("#b6b9bf")));
+		loginRectangle.setFill(loginGradient);
+		loginRectangle.setArcWidth(30);
+		loginRectangle.setArcHeight(30);
+		loginRectangle.setStroke(Color.BLACK);
+		root.getChildren().add(loginRectangle);
+		
+		//set loginPrompt
+		Text loginPrompt = new Text();
+		loginPrompt.setText("User Name");
+		loginPrompt.setFont(Font.font("Menlo", FontWeight.BOLD, 18));
+		loginPrompt.setFill(Color.web("#364359"));
+		loginPrompt.setX((200));
+		loginPrompt.setY(400);
+		root.getChildren().add(loginPrompt);
+		
+		TextField loginTF = new TextField();
+		loginTF.setLayoutX(150);
+		loginTF.setLayoutY(425);
+		root.getChildren().add(loginTF);
+		
+		
+		
+		
+		//set password prompt
+		Text passwordPrompt = new Text();
+		passwordPrompt.setText("Password");
+		passwordPrompt.setFont(Font.font("Menlo", FontWeight.BOLD, 18));
+		passwordPrompt.setY(50);
+		passwordPrompt.setFill(Color.web("#364359"));
+		passwordPrompt.setX((205));
+		passwordPrompt.setY(500);
+		root.getChildren().add(passwordPrompt);
+		
+
+
+		launchStage.setScene(scene);
+		
+		launchStage.show(); //this should be the last step in the start method.
+		
+	}
+}
