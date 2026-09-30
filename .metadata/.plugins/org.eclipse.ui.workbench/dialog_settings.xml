@@ -12,8 +12,26 @@
 		</section>
 	</section>
 	<section name="EditorSelectionDialog">
-		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".fxbuild"/>
+		<item key="EditorSelectionDialog.STORE_ID_FILE_EXTENSION" value=".map"/>
 		<item key="EditorSelectionDialog.STORE_ID_INTERNAL_EXTERNAL" value="true"/>
-		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="C:\Users\16184\AppData\Local\SceneBuilder\SceneBuilder.exe"/>
+		<item key="EditorSelectionDialog.STORE_ID_DESCR" value="C:\Users\16184\AppData\Local\Programs\Microsoft VS Code\Code.exe"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="500"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="574"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.debug.ui.commands.OpenDebugConfigurations"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.commands"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value=".launch"/>
+		</list>
 	</section>
 </section>

@@ -1,0 +1,129 @@
+package application;
+
+import java.sql.SQLException;
+
+import javafx.beans.binding.Bindings;
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
+import javafx.geometry.VPos;
+import javafx.scene.Cursor;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.Alert;
+import javafx.scene.control.Button;
+import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.Stop;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+
+public class UserOptionsHub 
+{
+	public static void showUserOptionsWindow(String enteredUsername,int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.getChildren().clear();
+		setUpUserOptionVBox(mainArea, navBar, root, scene);
+		setUpUserOptionNavBar(mainArea,  navBar,  root,  scene, userSecurityLevel,enteredUsername);
+		
+		
+		
+	}
+	
+	
+	
+	
+	public static void setUpUserOptionVBox(VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.setStyle("-fx-background-color: linear-gradient(" + "from 0% 0% to 0% 100%, " + "#FFFFFF 0%, " + "#acd1f2 100%" +");");
+		mainArea.setAlignment(Pos.TOP_LEFT);
+		mainArea.setPadding(new Insets(10,10,10,10));
+		mainArea.layoutXProperty().bind(navBar.prefWidthProperty().add(scene.widthProperty().subtract(navBar.prefWidthProperty()).subtract(mainArea.prefWidthProperty()).divide(2)));
+		mainArea.layoutYProperty().bind(navBar.layoutYProperty());
+		mainArea.prefWidthProperty().bind(scene.widthProperty().subtract(navBar.prefWidthProperty()).multiply(0.85));
+		mainArea.prefHeightProperty().bind(scene.heightProperty().subtract(navBar.layoutYProperty()).multiply(1));
+		mainArea.setSpacing(10);
+		mainArea.setFillWidth(true);
+		mainArea.setAlignment(Pos.TOP_CENTER);
+		
+	}
+	
+	
+	public static void setUpUserOptionNavBar(VBox mainArea, VBox navBar, Group root, Scene scene, int userSecurityLevel, String enteredUsername)
+	{
+		Text userOptionsHeader = new Text("User Options");
+		userOptionsHeader.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		LinearGradient logoTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#4872b5")));
+		userOptionsHeader.setFill(logoTextGradient);
+		userOptionsHeader.setTextOrigin(VPos.TOP);
+		mainArea.getChildren().add(userOptionsHeader);	
+		
+		VBox userNavBar = new VBox();
+		userNavBar.setStyle("-fx-background-color: linear-gradient(" + "from 0% 0% to 0% 100%, " + "#234C6B 0%, " + "#0e202e 100%" +");");
+		userNavBar.setPadding(new Insets(20));
+		userNavBar.setSpacing(10);
+		userNavBar.prefWidthProperty().bind(mainArea.widthProperty().multiply(0.1));
+		userNavBar.setAlignment(Pos.TOP_CENTER);
+		
+		Button createNewUser = new Button("Create New User");
+		Button editExisting = new Button ("Edit Existing User");
+		Button changePassword = new Button ("Change Password");
+		
+		userNavBar.getChildren().addAll(createNewUser,editExisting,changePassword);
+		for (javafx.scene.Node node : userNavBar.getChildren()) 
+		{
+			
+		    if (node instanceof Button button) {
+		        button.setPrefHeight(50);
+		        button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
+		        button.setStyle("-fx-background-color: #ebeced;");
+		        button.setMaxWidth(300);
+		        button.setMaxHeight(50);
+		        button.setOnMouseEntered(event -> {button.setStyle("-fx-background-color: #fafdff");});
+		        button.setOnMouseExited(event -> {button.setStyle("-fx-background-color: #ebeced;");});
+		        button.setOnMousePressed(event -> {button.setStyle("-fx-background-color: #4f7e9e;");});
+		        button.setOnMouseReleased(event ->{button.setStyle("-fx-background-color:  #fafdff;");});
+		        button.setCursor(Cursor.HAND);
+
+		
+		    	}
+		}
+		
+		if (userSecurityLevel < 3)
+		{
+			createNewUser.setDisable(true);
+
+		}
+		
+		createNewUser.setOnAction(event ->
+		{
+			System.out.println(enteredUsername +" pressed create new user button.");
+			CreateNewUser.createNewUserForm( enteredUsername, userSecurityLevel, mainArea,  navBar,  root,  scene);
+		});
+		
+		editExisting.setOnAction(event ->{
+			System.out.println(enteredUsername + " pressed edit existing users button.");
+			try {
+				EditExistingUser.EditExistingUserGui(enteredUsername, userSecurityLevel, mainArea,  navBar,  root,  scene);
+			} catch (SQLException e) {
+				Alert populateEditUserListError = new Alert(Alert.AlertType.ERROR);
+				populateEditUserListError.setTitle("Error populating user edit list. ");
+				populateEditUserListError.setHeaderText("Please contact IT assistasnce at LukiSoft.");
+				populateEditUserListError.showAndWait();
+				return;
+			}
+			
+		});
+		
+		changePassword.setOnAction(event -> {
+			System.out.println(enteredUsername +" pressed change password.");
+			ResetPassword.resetPasswordForm(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
+			
+		});
+		
+		
+		mainArea.getChildren().add(userNavBar);
+	}
+}

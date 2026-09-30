@@ -1,0 +1,10 @@
+package application;
+
+public class UpdateUserService 
+{
+
+	public static void UpdateUserDB()
+	{
+		
+	}
+}

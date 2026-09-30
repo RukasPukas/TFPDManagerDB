@@ -2,10 +2,13 @@ package application;
 	
 import javafx.application.Application;
 import javafx.stage.Stage;
+import javafx.scene.Cursor;
 import javafx.scene.Group;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
+import javafx.scene.control.Alert.AlertType;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.paint.Color;
@@ -17,6 +20,10 @@ import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 
 
 public class Main extends Application {
@@ -31,7 +38,7 @@ public class Main extends Application {
 	public void start(Stage launchStage) throws Exception {
 		
 		
-	//Here is the scene/root/stage (GUI) set up
+//Here is the scene/root/stage (GUI) set up
 		Group root = new Group(); // A root is the objects that make up the scene
 		LinearGradient pagreGradient = new LinearGradient(
 		        0, 0,
@@ -45,12 +52,11 @@ public class Main extends Application {
 		launchStage.getIcons().add(icon);
 		launchStage.setTitle("Welcome to TFPD Manager DB");
 		launchStage.setResizable(false);
-		
 		launchStage.setWidth(500);
 		launchStage.setHeight(750);
 		
 		
-		//set tfpdHeaderText
+//set tfpdHeaderText
 		Text tfpdHeaderText = new Text();
 		tfpdHeaderText.setText("TFPD Manager DB");
 		tfpdHeaderText.setFont(Font.font("Menlo", FontWeight.BOLD, 44));
@@ -69,7 +75,7 @@ public class Main extends Application {
 		
 		
 		
-		//set TFPD Logo Image onto scene
+//set TFPD Logo Image onto scene
 		Image logoImage = new Image("TFPDLogoFull.jpg");
 		ImageView logoView = new ImageView(logoImage);
 		logoView.setFitWidth(200);
@@ -86,7 +92,7 @@ public class Main extends Application {
 		root.getChildren().add(logoView);
 		
 		
-		//Line section
+//Line section
 		Line divisionLine = new Line();
 		divisionLine.setStartX(40);
 		divisionLine.setStartY(350);
@@ -100,7 +106,7 @@ public class Main extends Application {
 		
 		
 		
-		//login area rectangle
+//login area rectangle
 		Rectangle loginRectangle = new Rectangle();
 		loginRectangle.setX(65);
 		loginRectangle.setY(375);
@@ -119,7 +125,7 @@ public class Main extends Application {
 		loginRectangle.setStroke(Color.BLACK);
 		root.getChildren().add(loginRectangle);
 		
-		//set loginPrompt
+//set loginPrompt
 		Text loginPrompt = new Text();
 		loginPrompt.setText("User Name");
 		loginPrompt.setFont(Font.font("Menlo", FontWeight.BOLD, 18));
@@ -129,13 +135,14 @@ public class Main extends Application {
 		root.getChildren().add(loginPrompt);
 		
 		
-		//login field
+//login field
 		TextField loginTF = new TextField();
 		loginTF.setLayoutX(120);
 		loginTF.setLayoutY(425);
 		loginTF.setPrefWidth(250);
 		root.getChildren().add(loginTF);
 		
+//forgot username button
 		Button forgotUserNameButton = new Button("?");
 		forgotUserNameButton.setLayoutX(380);
 		forgotUserNameButton.setFont(Font.font("Menlo", 18));
@@ -143,7 +150,8 @@ public class Main extends Application {
 		forgotUserNameButton.setPrefWidth(10);
 		forgotUserNameButton.setOnAction(event -> {
 		    System.out.println("Forgot User Name Button Pressed.");
-		    root.setDisable(true);
+		    ForgotUserName.showWindow(launchStage);
+		    launchStage.close();
 		    
 		});
 		root.getChildren().add(forgotUserNameButton);
@@ -151,7 +159,7 @@ public class Main extends Application {
 		
 		
 		
-		//set password prompt
+// password prompt
 		Text passwordPrompt = new Text();
 		passwordPrompt.setText("Password");
 		passwordPrompt.setFont(Font.font("Menlo", FontWeight.BOLD, 18));
@@ -161,7 +169,7 @@ public class Main extends Application {
 		passwordPrompt.setY(500);
 		root.getChildren().add(passwordPrompt);
 		
-		//login field
+//login field
 		TextField passwordTF = new TextField();
 		passwordTF.setLayoutX(120);
 		passwordTF.setLayoutY(525);
@@ -171,14 +179,22 @@ public class Main extends Application {
 		root.getChildren().add(passwordTF);
 		
 		
+		
+//forgot password button
 		Button forgotPWButton = new Button("?");
 		forgotPWButton.setLayoutX(380);
 		forgotPWButton.setFont(Font.font("Menlo", 18));
 		forgotPWButton.setLayoutY(515);
 		forgotPWButton.setPrefWidth(10);
+		forgotPWButton.setOnAction(event -> {
+			System.out.println("Forgot User Password Button Pressed.");
+			ForgotPassword.showWindow(launchStage);
+		    launchStage.close();
+		});
 		root.getChildren().add(forgotPWButton);
 		
 		
+//login button
 		Button loginButton = new Button("Login");
 		loginButton.setLayoutX(210);
 		loginButton.setFont(Font.font("Menlo", 18));
@@ -187,19 +203,106 @@ public class Main extends Application {
 		loginButton.setStyle("-fx-text-fill: #364359;");
 		loginButton.setOnMouseEntered(e -> {
 		    loginButton.setStyle("-fx-background-color: white;");
+		    loginButton.setCursor(Cursor.HAND);
 		});
 		loginButton.setOnMouseExited(e -> {
 		    loginButton.setStyle("-fx-text-fill: #364359;");
 		});
+		loginButton.setOnAction(event -> {
+//-------------------------------------**Login Authentication Gather**-------------------------------------
+			String enteredUsername = loginTF.getText().toUpperCase();
+			String enteredPassword = passwordTF.getText();
+			System.out.println("Login Button Pressed..");
+			
+			try {
+					boolean validLoginUserName = 
+							UserNameAuthenticator.ReturnUserName(enteredUsername);
+						
+//Progress to password verification if username correct 
+					if(validLoginUserName)
+					{
+						//Printout user credentials
+						System.out.println("Successfully found user name.");
+						int userSecurityLevel = ReturnAccountInformationSerivce.ReturnSecurityLevel(enteredUsername);
+						System.out.println("User name is: " + enteredUsername);
+						System.out.println("User Security level is: " + userSecurityLevel);		
+						
+							
+						try {
+							
+							
+							boolean validLoginPassword = 
+									LoginAuthenticator.credentialsAreValid(enteredUsername,enteredPassword);
+							
+							if(validLoginPassword)
+							{
+								System.out.println("Successfully found user with password credentials.");
+								//Initialize Main Hub!
+								UserLoginTimeStampService.recordSuccessfulLogin(enteredUsername);
+						        MainHub.showWindow(enteredUsername, userSecurityLevel);
+						        launchStage.close();
+							}
+							else
+							{
+								System.out.println("User password incorrect.");
+						    	Alert userPasswordIncorrect = new Alert(AlertType.INFORMATION);
+						    	userPasswordIncorrect.setTitle("INCORRECT PASSWORD");
+						    	userPasswordIncorrect.setHeaderText("ATTENTION:");
+						    	userPasswordIncorrect.setContentText("The PASSWORD entered is not for this account.");
+						    	userPasswordIncorrect.showAndWait();
+								return;
+							}
+						}
+						catch(SQLException exception)
+						{
+							System.out.println("Database connection error.");
+						}
+						
+					}
+					else
+					{
+						System.out.println("User name not found or incorrect.");
+				    	Alert userNameNotFoundAlert = new Alert(AlertType.INFORMATION);
+				    	userNameNotFoundAlert.setTitle("USERNAME NOT FOUND");
+				    	userNameNotFoundAlert.setHeaderText("ATTENTION:");
+				    	userNameNotFoundAlert.setContentText("The USERNAME entered was not found.");
+				    	userNameNotFoundAlert.showAndWait();
+						return;
+					}
+				}
+			catch  (SQLException exception){
+				System.out.println("Database connection error.");
+			}
+//-------------------------------------**Login Authentication Gather**-------------------------------------
+			
+		});
 
 		root.getChildren().add(loginButton);
-	
 		
+		
+//--------------------------------------**DB Connection TEST**------------------------------------------
+		try (Connection connection = DatabaseConnection.getConnection()) {
+
+		    System.out.println("Successfully connected to MySQL!");
+		    System.out.println("Database: " + connection.getCatalog());
+
+		} catch (SQLException exception) {
+
+		    System.err.println("Could not connect to MySQL:");
+		    exception.printStackTrace();
+		}
+//--------------------------------------**DB Connection TEST**------------------------------------------
+		
+		
+		
+
 
 
 		launchStage.setScene(scene);
 		
 		launchStage.show(); //this should be the last step in the start method.
+		
+
 		
 	}
 }

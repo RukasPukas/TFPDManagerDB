@@ -4,6 +4,7 @@ content_assist_number_of_computers=16
 content_assist_proposals_background=52,57,61
 content_assist_proposals_foreground=238,238,238
 eclipse.preferences.version=1
+markOccurrences=false
 org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.internal.ui.navigator.librariesnode=true
 org.eclipse.jdt.ui.formatterprofiles.version=23

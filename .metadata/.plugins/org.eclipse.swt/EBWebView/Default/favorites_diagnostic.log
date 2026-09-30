@@ -217,3 +217,1283 @@
 2026-08-14 13:10:43.863: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-08-14 13:10:43.863: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-08-14 13:34:43.036: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-22 23:36:57.084: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 23:36:57.084: [INFO] Profiles total count: 1
+2026-08-22 23:36:57.088: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T13:10:46.461Z
+2026-08-22 23:36:57.088: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-22 23:36:57.088: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T13:10:46.461Z
+2026-08-22 23:36:57.088: [INFO] OnDoneLoading sync enabled: 0
+2026-08-22 23:36:57.088: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-22 23:36:57.088: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-22 23:36:57.088: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 01:02:39.053: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 14:46:51.653: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 14:46:51.653: [INFO] Profiles total count: 1
+2026-08-23 14:46:51.657: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T13:10:46.461Z
+2026-08-23 14:46:51.657: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 14:46:51.657: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-14T13:10:46.461Z
+2026-08-23 14:46:51.657: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 14:46:51.657: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 14:46:51.657: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 14:46:51.657: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 15:25:59.337: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 15:26:36.758: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 15:26:36.758: [INFO] Profiles total count: 1
+2026-08-23 15:26:36.758: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T15:25:24.798Z
+2026-08-23 15:26:36.758: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 15:26:36.758: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T15:25:24.798Z
+2026-08-23 15:26:36.758: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 15:26:36.758: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 15:26:36.758: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 15:26:36.758: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 19:33:57.177: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 21:53:06.266: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 21:53:06.266: [INFO] Profiles total count: 1
+2026-08-23 21:53:06.269: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T15:25:24.798Z
+2026-08-23 21:53:06.269: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 21:53:06.269: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T15:25:24.798Z
+2026-08-23 21:53:06.269: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 21:53:06.269: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 21:53:06.269: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 21:53:06.269: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 22:14:01.338: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 22:14:38.711: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 22:14:38.711: [INFO] Profiles total count: 1
+2026-08-23 22:14:38.711: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T21:53:10.176Z
+2026-08-23 22:14:38.711: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 22:14:38.711: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T21:53:10.176Z
+2026-08-23 22:14:38.711: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 22:14:38.711: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 22:14:38.711: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 22:14:38.711: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 22:16:08.094: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-23 22:16:38.135: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 22:16:38.135: [INFO] Profiles total count: 1
+2026-08-23 22:16:38.136: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T21:53:10.176Z
+2026-08-23 22:16:38.136: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-23 22:16:38.136: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-23T21:53:10.176Z
+2026-08-23 22:16:38.136: [INFO] OnDoneLoading sync enabled: 0
+2026-08-23 22:16:38.136: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-23 22:16:38.136: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-23 22:16:38.136: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-24 02:27:14.516: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 16:35:25.014: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:35:25.014: [INFO] Profiles total count: 1
+2026-08-26 16:35:25.017: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-24T02:19:29.267Z
+2026-08-26 16:35:25.017: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-26 16:35:25.017: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-24T02:19:29.267Z
+2026-08-26 16:35:25.017: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 16:35:25.017: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 16:35:25.017: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 16:35:25.018: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 16:36:56.125: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 16:25:22.681: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 16:25:22.681: [INFO] Profiles total count: 1
+2026-08-28 16:25:22.682: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-26T16:36:55.268Z
+2026-08-28 16:25:22.682: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 16:25:22.682: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-26T16:36:55.268Z
+2026-08-28 16:25:22.682: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 16:25:22.682: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 16:25:22.682: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 16:25:22.682: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 19:36:44.387: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 21:41:37.611: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 21:41:37.611: [INFO] Profiles total count: 1
+2026-08-28 21:41:37.613: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T17:15:44.128Z
+2026-08-28 21:41:37.613: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 21:41:37.613: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T17:15:44.128Z
+2026-08-28 21:41:37.613: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 21:41:37.613: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 21:41:37.613: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 21:41:37.613: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 21:41:45.064: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 21:42:51.983: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 21:42:51.983: [INFO] Profiles total count: 1
+2026-08-28 21:42:51.984: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 21:42:51.984: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 21:42:51.984: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 21:42:51.984: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 21:42:51.984: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 21:42:51.984: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 21:42:51.984: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 21:43:18.434: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 21:43:28.101: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 21:43:28.101: [INFO] Profiles total count: 1
+2026-08-28 21:43:28.102: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 21:43:28.102: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 21:43:28.102: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 21:43:28.102: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 21:43:28.102: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 21:43:28.102: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 21:43:28.102: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 21:49:41.566: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 22:46:45.751: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 22:46:45.751: [INFO] Profiles total count: 1
+2026-08-28 22:46:45.751: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 22:46:45.751: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 22:46:45.751: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 22:46:45.751: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 22:46:45.751: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 22:46:45.751: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 22:46:45.752: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 22:55:10.367: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-28 23:22:58.933: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 23:22:58.933: [INFO] Profiles total count: 1
+2026-08-28 23:22:58.933: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 23:22:58.933: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-28 23:22:58.933: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-28 23:22:58.933: [INFO] OnDoneLoading sync enabled: 0
+2026-08-28 23:22:58.933: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-28 23:22:58.933: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-28 23:22:58.933: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-29 00:40:01.027: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-29 01:20:02.113: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-29 01:20:02.113: [INFO] Profiles total count: 1
+2026-08-29 01:20:02.114: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-29 01:20:02.114: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-29 01:20:02.114: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-28T21:41:43.083Z
+2026-08-29 01:20:02.114: [INFO] OnDoneLoading sync enabled: 0
+2026-08-29 01:20:02.114: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-29 01:20:02.114: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-29 01:20:02.114: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-29 01:33:10.726: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-29 12:13:20.552: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-29 12:13:20.552: [INFO] Profiles total count: 1
+2026-08-29 12:13:20.557: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-08-29 12:13:20.557: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-29 12:13:20.557: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-08-29 12:13:20.557: [INFO] OnDoneLoading sync enabled: 0
+2026-08-29 12:13:20.557: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-29 12:13:20.557: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-29 12:13:20.557: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-29 12:13:34.363: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-30 00:09:01.607: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-30 00:09:01.607: [INFO] Profiles total count: 1
+2026-08-30 00:09:01.618: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-08-30 00:09:01.618: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-08-30 00:09:01.618: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-08-30 00:09:01.618: [INFO] OnDoneLoading sync enabled: 0
+2026-08-30 00:09:01.618: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-30 00:09:01.618: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-30 00:09:01.618: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-30 02:39:02.132: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 03:31:49.729: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 03:31:49.729: [INFO] Profiles total count: 1
+2026-09-01 03:31:49.730: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-09-01 03:31:49.730: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 03:31:49.730: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-09-01 03:31:49.730: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 03:31:49.730: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-01 03:31:49.730: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-01 03:31:49.731: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 04:00:32.457: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 04:05:29.785: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 04:05:29.785: [INFO] Profiles total count: 1
+2026-09-01 04:05:29.785: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-09-01 04:05:29.785: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 04:05:29.785: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-08-29T01:20:11.455Z
+2026-09-01 04:05:29.786: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 04:05:29.786: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-01 04:05:29.786: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-01 04:05:29.786: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 04:36:02.658: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 14:53:56.985: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 14:53:56.985: [INFO] Profiles total count: 1
+2026-09-01 14:53:56.986: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T04:05:51.042Z
+2026-09-01 14:53:56.986: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-01 14:53:56.986: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T04:05:51.042Z
+2026-09-01 14:53:56.986: [INFO] OnDoneLoading sync enabled: 0
+2026-09-01 14:53:56.986: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-01 14:53:56.986: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-01 14:53:56.986: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-01 15:19:02.722: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 15:38:55.092: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 15:38:55.092: [INFO] Profiles total count: 1
+2026-09-12 15:38:55.094: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T04:05:51.042Z
+2026-09-12 15:38:55.094: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 15:38:55.095: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-01T04:05:51.042Z
+2026-09-12 15:38:55.095: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 15:38:55.095: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 15:38:55.095: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 15:38:55.095: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 15:39:11.777: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 15:39:38.636: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 15:39:38.636: [INFO] Profiles total count: 1
+2026-09-12 15:39:38.636: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 15:39:38.636: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 15:39:38.636: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 15:39:38.636: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 15:39:38.636: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 15:39:38.636: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 15:39:38.636: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:09:58.664: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:10:37.780: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:10:37.780: [INFO] Profiles total count: 1
+2026-09-12 16:10:37.780: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:10:37.780: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:10:37.780: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:10:37.780: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:10:37.780: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:10:37.780: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:10:37.780: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:10:40.400: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:12:38.389: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:12:38.389: [INFO] Profiles total count: 1
+2026-09-12 16:12:38.389: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:12:38.389: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:12:38.389: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:12:38.389: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:12:38.389: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:12:38.389: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:12:38.389: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:14:14.825: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:14:51.540: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:14:51.540: [INFO] Profiles total count: 1
+2026-09-12 16:14:51.540: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:14:51.540: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:14:51.540: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:14:51.540: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:14:51.540: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:14:51.540: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:14:51.540: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:41:20.173: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:43:22.269: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:43:22.269: [INFO] Profiles total count: 1
+2026-09-12 16:43:22.269: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:43:22.269: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:43:22.269: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:43:22.269: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:43:22.269: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:43:22.269: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:43:22.269: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:43:26.892: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:43:43.063: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:43:43.063: [INFO] Profiles total count: 1
+2026-09-12 16:43:43.063: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:43:43.063: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:43:43.063: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:43:43.063: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:43:43.063: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:43:43.063: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:43:43.063: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:43:47.593: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:44:14.230: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:44:14.230: [INFO] Profiles total count: 1
+2026-09-12 16:44:14.231: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:44:14.231: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:44:14.231: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:44:14.231: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:44:14.231: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:44:14.231: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:44:14.231: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:44:20.119: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:45:24.523: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:45:24.523: [INFO] Profiles total count: 1
+2026-09-12 16:45:24.523: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:45:24.523: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:45:24.523: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:45:24.523: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:45:24.523: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:45:24.523: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:45:24.523: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:45:26.746: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 16:49:50.383: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:49:50.383: [INFO] Profiles total count: 1
+2026-09-12 16:49:50.383: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:49:50.383: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 16:49:50.383: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 16:49:50.383: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 16:49:50.383: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 16:49:50.383: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 16:49:50.383: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:32:03.948: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:34:15.519: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 17:34:15.519: [INFO] Profiles total count: 1
+2026-09-12 17:34:15.519: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 17:34:15.519: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 17:34:15.519: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 17:34:15.519: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:34:15.519: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:34:15.519: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:34:15.519: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:41:23.997: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:42:21.968: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 17:42:21.968: [INFO] Profiles total count: 1
+2026-09-12 17:42:21.968: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 17:42:21.968: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 17:42:21.968: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 17:42:21.968: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:42:21.968: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:42:21.968: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:42:21.968: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:51:33.840: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 17:53:01.024: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 17:53:01.024: [INFO] Profiles total count: 1
+2026-09-12 17:53:01.024: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 17:53:01.024: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-12 17:53:01.024: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-12 17:53:01.024: [INFO] OnDoneLoading sync enabled: 0
+2026-09-12 17:53:01.024: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-12 17:53:01.024: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-12 17:53:01.024: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-12 18:26:53.035: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:00:15.901: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:00:15.901: [INFO] Profiles total count: 1
+2026-09-13 14:00:15.901: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-13 14:00:15.901: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:00:15.901: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-12T15:39:10.010Z
+2026-09-13 14:00:15.901: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:00:15.901: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:00:15.901: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:00:15.901: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:00:51.152: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:05:32.206: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:05:32.207: [INFO] Profiles total count: 1
+2026-09-13 14:05:32.207: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:05:32.207: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:05:32.207: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:05:32.207: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:05:32.207: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:05:32.207: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:05:32.207: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:07:47.151: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:10:14.462: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:10:14.462: [INFO] Profiles total count: 1
+2026-09-13 14:10:14.462: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:10:14.462: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:10:14.463: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:10:14.463: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:10:14.463: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:10:14.463: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:10:14.463: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:10:19.910: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:10:26.561: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:10:26.561: [INFO] Profiles total count: 1
+2026-09-13 14:10:26.561: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:10:26.561: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:10:26.561: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:10:26.561: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:10:26.561: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:10:26.561: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:10:26.561: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:10:37.236: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:17:46.941: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:17:46.941: [INFO] Profiles total count: 1
+2026-09-13 14:17:46.941: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:17:46.941: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:17:46.941: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:17:46.941: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:17:46.941: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:17:46.941: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:17:46.941: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:20:35.458: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:21:17.828: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:21:17.828: [INFO] Profiles total count: 1
+2026-09-13 14:21:17.829: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:21:17.829: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:21:17.829: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:21:17.829: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:21:17.829: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:21:17.829: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:21:17.829: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:21:42.897: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:25:18.000: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:25:18.000: [INFO] Profiles total count: 1
+2026-09-13 14:25:18.000: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:25:18.000: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:25:18.000: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:25:18.000: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:25:18.000: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:25:18.000: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:25:18.000: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:25:59.624: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:27:11.307: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:27:11.307: [INFO] Profiles total count: 1
+2026-09-13 14:27:11.307: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:27:11.307: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:27:11.307: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:27:11.307: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:27:11.307: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:27:11.307: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:27:11.307: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:35:35.994: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:35:40.630: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:35:40.630: [INFO] Profiles total count: 1
+2026-09-13 14:35:40.630: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:35:40.630: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:35:40.630: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:35:40.630: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:35:40.631: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:35:40.631: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:35:40.631: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:48:35.203: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:52:46.628: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:52:46.628: [INFO] Profiles total count: 1
+2026-09-13 14:52:46.628: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:52:46.628: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 14:52:46.628: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 14:52:46.628: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 14:52:46.628: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 14:52:46.628: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 14:52:46.628: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 14:56:45.109: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:02:35.648: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:02:35.648: [INFO] Profiles total count: 1
+2026-09-13 15:02:35.648: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:02:35.648: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:02:35.648: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:02:35.648: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 15:02:35.648: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 15:02:35.648: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 15:02:35.648: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:02:38.598: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:02:59.688: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:02:59.688: [INFO] Profiles total count: 1
+2026-09-13 15:02:59.688: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:02:59.688: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:02:59.688: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:02:59.688: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 15:02:59.688: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 15:02:59.688: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 15:02:59.688: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:03:10.636: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:08:29.117: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:08:29.117: [INFO] Profiles total count: 1
+2026-09-13 15:08:29.117: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:08:29.117: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:08:29.117: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:08:29.117: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 15:08:29.117: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 15:08:29.117: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 15:08:29.117: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:11:15.195: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:11:33.319: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:11:33.319: [INFO] Profiles total count: 1
+2026-09-13 15:11:33.319: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:11:33.319: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:11:33.319: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:11:33.319: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 15:11:33.319: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 15:11:33.319: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 15:11:33.319: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:41:23.242: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:48:10.895: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:48:10.895: [INFO] Profiles total count: 1
+2026-09-13 15:48:10.895: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:48:10.895: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:48:10.895: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:48:10.895: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 15:48:10.895: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 15:48:10.895: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 15:48:10.895: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:50:00.002: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:51:48.754: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:51:48.754: [INFO] Profiles total count: 1
+2026-09-13 15:51:48.754: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:51:48.754: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:51:48.754: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:51:48.754: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 15:51:48.754: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 15:51:48.754: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 15:51:48.754: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:53:38.171: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 15:54:33.047: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:54:33.047: [INFO] Profiles total count: 1
+2026-09-13 15:54:33.047: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:54:33.047: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 15:54:33.047: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 15:54:33.047: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 15:54:33.047: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 15:54:33.047: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 15:54:33.047: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 16:29:04.529: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 16:29:04.611: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 16:29:04.611: [INFO] Profiles total count: 1
+2026-09-13 16:29:04.611: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 16:29:04.611: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-13 16:29:04.611: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-13 16:29:04.611: [INFO] OnDoneLoading sync enabled: 0
+2026-09-13 16:29:04.611: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-13 16:29:04.611: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-13 16:29:04.611: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-13 16:36:59.258: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:05:04.151: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:05:04.151: [INFO] Profiles total count: 1
+2026-09-17 15:05:04.151: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:05:04.151: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:05:04.151: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:05:04.151: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:05:04.152: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:05:04.152: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:05:04.152: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:05:11.565: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:05:33.354: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:05:33.354: [INFO] Profiles total count: 1
+2026-09-17 15:05:33.354: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:05:33.354: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:05:33.354: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:05:33.354: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:05:33.354: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:05:33.354: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:05:33.354: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:14:46.862: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:21:53.060: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:21:53.060: [INFO] Profiles total count: 1
+2026-09-17 15:21:53.060: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:21:53.060: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:21:53.060: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:21:53.060: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:21:53.060: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:21:53.060: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:21:53.060: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:21:56.484: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:22:40.835: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:22:40.835: [INFO] Profiles total count: 1
+2026-09-17 15:22:40.835: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:22:40.835: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:22:40.835: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:22:40.835: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:22:40.835: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:22:40.835: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:22:40.835: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:24:06.598: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:24:49.431: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:24:49.431: [INFO] Profiles total count: 1
+2026-09-17 15:24:49.431: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:24:49.431: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:24:49.431: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:24:49.431: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:24:49.431: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:24:49.431: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:24:49.431: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:26:08.965: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:26:23.871: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:26:23.871: [INFO] Profiles total count: 1
+2026-09-17 15:26:23.871: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:26:23.871: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:26:23.871: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:26:23.871: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:26:23.871: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:26:23.871: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:26:23.871: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:26:43.206: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:27:02.076: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:27:02.076: [INFO] Profiles total count: 1
+2026-09-17 15:27:02.076: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:27:02.076: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:27:02.076: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:27:02.076: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:27:02.076: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:27:02.076: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:27:02.076: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:27:19.098: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:29:35.639: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:29:35.639: [INFO] Profiles total count: 1
+2026-09-17 15:29:35.639: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:29:35.639: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:29:35.639: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:29:35.639: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:29:35.639: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:29:35.639: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:29:35.639: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:30:50.158: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:31:08.766: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:31:08.766: [INFO] Profiles total count: 1
+2026-09-17 15:31:08.766: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:31:08.766: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:31:08.766: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:31:08.766: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:31:08.766: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:31:08.766: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:31:08.766: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:31:20.363: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:32:18.267: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:32:18.267: [INFO] Profiles total count: 1
+2026-09-17 15:32:18.267: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:32:18.267: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:32:18.267: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:32:18.267: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:32:18.267: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:32:18.267: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:32:18.267: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:32:32.073: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:36:29.330: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:36:29.330: [INFO] Profiles total count: 1
+2026-09-17 15:36:29.330: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:36:29.330: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:36:29.330: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:36:29.330: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:36:29.330: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:36:29.330: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:36:29.330: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:49:10.435: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:49:12.120: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:49:12.121: [INFO] Profiles total count: 1
+2026-09-17 15:49:12.121: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:49:12.121: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:49:12.121: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:49:12.121: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:49:12.121: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:49:12.121: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:49:12.121: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:49:29.299: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:49:35.060: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:49:35.060: [INFO] Profiles total count: 1
+2026-09-17 15:49:35.060: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:49:35.060: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:49:35.060: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:49:35.060: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:49:35.060: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:49:35.060: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:49:35.060: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:50:07.700: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:52:34.482: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:52:34.482: [INFO] Profiles total count: 1
+2026-09-17 15:52:34.482: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:52:34.482: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:52:34.482: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:52:34.482: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:52:34.482: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:52:34.482: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:52:34.482: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:58:17.703: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:59:03.438: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:59:03.438: [INFO] Profiles total count: 1
+2026-09-17 15:59:03.438: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:59:03.438: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:59:03.438: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:59:03.438: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:59:03.438: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:59:03.439: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:59:03.439: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:59:15.759: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 15:59:40.126: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:59:40.126: [INFO] Profiles total count: 1
+2026-09-17 15:59:40.126: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:59:40.126: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 15:59:40.126: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 15:59:40.126: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 15:59:40.126: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 15:59:40.126: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 15:59:40.126: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:01:46.658: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:01:46.720: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:01:46.720: [INFO] Profiles total count: 1
+2026-09-17 16:01:46.720: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:01:46.720: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:01:46.720: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:01:46.720: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 16:01:46.720: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 16:01:46.720: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 16:01:46.720: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:02:32.388: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:02:32.448: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:02:32.448: [INFO] Profiles total count: 1
+2026-09-17 16:02:32.448: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:02:32.448: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:02:32.448: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:02:32.448: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 16:02:32.448: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 16:02:32.448: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 16:02:32.448: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:03:36.588: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:18:26.467: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:18:26.467: [INFO] Profiles total count: 1
+2026-09-17 16:18:26.467: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:18:26.467: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:18:26.467: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:18:26.467: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 16:18:26.467: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 16:18:26.467: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 16:18:26.467: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:18:52.154: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:18:52.214: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:18:52.214: [INFO] Profiles total count: 1
+2026-09-17 16:18:52.214: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:18:52.214: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 16:18:52.214: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 16:18:52.214: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 16:18:52.214: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 16:18:52.214: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 16:18:52.214: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 16:38:36.700: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 21:58:58.471: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 21:58:58.471: [INFO] Profiles total count: 1
+2026-09-17 21:58:58.471: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 21:58:58.471: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 21:58:58.471: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 21:58:58.471: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 21:58:58.471: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 21:58:58.471: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 21:58:58.471: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 22:01:18.074: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 22:01:22.377: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 22:01:22.378: [INFO] Profiles total count: 1
+2026-09-17 22:01:22.378: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 22:01:22.378: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 22:01:22.378: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 22:01:22.378: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 22:01:22.378: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 22:01:22.378: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 22:01:22.378: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 22:01:34.970: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 22:01:40.073: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 22:01:40.073: [INFO] Profiles total count: 1
+2026-09-17 22:01:40.073: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 22:01:40.073: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 22:01:40.073: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 22:01:40.073: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 22:01:40.073: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 22:01:40.073: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 22:01:40.073: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:06:27.163: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:13:02.510: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:13:02.510: [INFO] Profiles total count: 1
+2026-09-17 23:13:02.511: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:13:02.511: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:13:02.511: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:13:02.511: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 23:13:02.511: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 23:13:02.511: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 23:13:02.511: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:13:09.007: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:13:12.011: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:13:12.011: [INFO] Profiles total count: 1
+2026-09-17 23:13:12.011: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:13:12.011: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:13:12.011: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:13:12.011: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 23:13:12.011: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 23:13:12.011: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 23:13:12.011: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:15:42.223: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:16:04.938: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:16:04.938: [INFO] Profiles total count: 1
+2026-09-17 23:16:04.938: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:16:04.938: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:16:04.938: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:16:04.938: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 23:16:04.938: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 23:16:04.938: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 23:16:04.938: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:16:23.847: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:16:37.198: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:16:37.198: [INFO] Profiles total count: 1
+2026-09-17 23:16:37.198: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:16:37.198: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:16:37.198: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:16:37.198: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 23:16:37.198: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 23:16:37.198: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 23:16:37.198: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:19:10.978: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:23:36.253: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:23:36.253: [INFO] Profiles total count: 1
+2026-09-17 23:23:36.254: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:23:36.254: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:23:36.254: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:23:36.254: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 23:23:36.254: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 23:23:36.254: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 23:23:36.254: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:53:28.794: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:59:06.763: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:59:06.763: [INFO] Profiles total count: 1
+2026-09-17 23:59:06.763: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:59:06.763: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:59:06.763: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:59:06.763: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 23:59:06.763: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 23:59:06.763: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 23:59:06.763: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:59:12.986: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-17 23:59:42.277: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:59:42.277: [INFO] Profiles total count: 1
+2026-09-17 23:59:42.277: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:59:42.277: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-17 23:59:42.277: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-17 23:59:42.277: [INFO] OnDoneLoading sync enabled: 0
+2026-09-17 23:59:42.277: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-17 23:59:42.277: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-17 23:59:42.277: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:00:40.669: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:00:47.898: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:00:47.898: [INFO] Profiles total count: 1
+2026-09-18 00:00:47.898: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-18 00:00:47.898: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:00:47.898: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-13T14:00:22.842Z
+2026-09-18 00:00:47.898: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 00:00:47.898: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 00:00:47.898: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 00:00:47.898: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:01:46.380: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:03:00.609: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:03:00.609: [INFO] Profiles total count: 1
+2026-09-18 00:03:00.609: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:03:00.609: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:03:00.609: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:03:00.609: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 00:03:00.609: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 00:03:00.609: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 00:03:00.609: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:03:03.692: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:04:23.674: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:04:23.674: [INFO] Profiles total count: 1
+2026-09-18 00:04:23.675: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:04:23.675: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:04:23.675: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:04:23.675: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 00:04:23.675: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 00:04:23.675: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 00:04:23.675: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:15:00.427: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:15:53.277: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:15:53.277: [INFO] Profiles total count: 1
+2026-09-18 00:15:53.277: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:15:53.277: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:15:53.277: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:15:53.277: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 00:15:53.277: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 00:15:53.277: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 00:15:53.277: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:17:35.024: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:18:11.021: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:18:11.021: [INFO] Profiles total count: 1
+2026-09-18 00:18:11.021: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:18:11.021: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-18 00:18:11.021: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-18 00:18:11.021: [INFO] OnDoneLoading sync enabled: 0
+2026-09-18 00:18:11.021: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-18 00:18:11.021: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-18 00:18:11.021: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-18 00:19:11.416: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:07:16.957: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:07:16.957: [INFO] Profiles total count: 1
+2026-09-19 17:07:16.957: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:07:16.957: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:07:16.957: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:07:16.957: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 17:07:16.957: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 17:07:16.957: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 17:07:16.957: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:08:29.189: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:09:08.020: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:09:08.021: [INFO] Profiles total count: 1
+2026-09-19 17:09:08.021: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:09:08.021: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:09:08.021: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:09:08.021: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 17:09:08.021: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 17:09:08.021: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 17:09:08.021: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:09:11.830: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:13:08.461: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:13:08.461: [INFO] Profiles total count: 1
+2026-09-19 17:13:08.461: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:13:08.461: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:13:08.461: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:13:08.461: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 17:13:08.461: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 17:13:08.461: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 17:13:08.461: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:27:39.516: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:29:35.316: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:29:35.316: [INFO] Profiles total count: 1
+2026-09-19 17:29:35.316: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:29:35.316: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:29:35.316: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:29:35.316: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 17:29:35.316: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 17:29:35.316: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 17:29:35.316: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:29:40.172: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:38:56.488: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:38:56.488: [INFO] Profiles total count: 1
+2026-09-19 17:38:56.488: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:38:56.488: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:38:56.488: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:38:56.488: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 17:38:56.488: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 17:38:56.488: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 17:38:56.488: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:44:41.218: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:49:41.820: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:49:41.820: [INFO] Profiles total count: 1
+2026-09-19 17:49:41.821: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:49:41.821: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:49:41.821: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:49:41.821: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 17:49:41.821: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 17:49:41.821: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 17:49:41.821: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:51:15.696: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 17:51:27.850: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:51:27.850: [INFO] Profiles total count: 1
+2026-09-19 17:51:27.850: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:51:27.850: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-19 17:51:27.850: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-19 17:51:27.850: [INFO] OnDoneLoading sync enabled: 0
+2026-09-19 17:51:27.850: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-19 17:51:27.850: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-19 17:51:27.850: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-19 18:09:02.774: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 21:04:58.942: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 21:04:58.942: [INFO] Profiles total count: 1
+2026-09-21 21:04:58.943: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-21 21:04:58.943: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 21:04:58.943: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-18T00:01:26.965Z
+2026-09-21 21:04:58.943: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 21:04:58.943: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 21:04:58.943: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 21:04:58.943: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 21:05:07.531: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 21:05:46.845: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 21:05:46.845: [INFO] Profiles total count: 1
+2026-09-21 21:05:46.845: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-21 21:05:46.845: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 21:05:46.845: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-21 21:05:46.845: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 21:05:46.845: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 21:05:46.845: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 21:05:46.845: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 21:06:12.102: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 21:07:43.707: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 21:07:43.707: [INFO] Profiles total count: 1
+2026-09-21 21:07:43.707: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-21 21:07:43.707: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-21 21:07:43.707: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-21 21:07:43.707: [INFO] OnDoneLoading sync enabled: 0
+2026-09-21 21:07:43.707: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-21 21:07:43.707: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-21 21:07:43.707: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-21 21:30:27.591: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 11:54:49.255: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 11:54:49.255: [INFO] Profiles total count: 1
+2026-09-28 11:54:49.257: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 11:54:49.257: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 11:54:49.257: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 11:54:49.257: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 11:54:49.257: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 11:54:49.257: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 11:54:49.257: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:05:57.898: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:07:59.312: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:07:59.312: [INFO] Profiles total count: 1
+2026-09-28 12:07:59.312: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:07:59.312: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:07:59.312: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:07:59.312: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:07:59.312: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:07:59.312: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:07:59.312: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:08:54.482: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:12:21.676: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:12:21.676: [INFO] Profiles total count: 1
+2026-09-28 12:12:21.676: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:12:21.676: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:12:21.676: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:12:21.676: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:12:21.676: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:12:21.676: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:12:21.676: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:12:26.805: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:23:19.900: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:23:19.900: [INFO] Profiles total count: 1
+2026-09-28 12:23:19.900: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:23:19.900: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:23:19.900: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:23:19.900: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:23:19.900: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:23:19.900: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:23:19.900: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:23:37.115: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:25:29.405: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:25:29.405: [INFO] Profiles total count: 1
+2026-09-28 12:25:29.406: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:25:29.406: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:25:29.406: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:25:29.406: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:25:29.406: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:25:29.406: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:25:29.406: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:25:33.004: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:25:53.217: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:25:53.217: [INFO] Profiles total count: 1
+2026-09-28 12:25:53.217: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:25:53.217: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:25:53.217: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:25:53.217: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:25:53.217: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:25:53.217: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:25:53.217: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:26:45.104: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:27:57.749: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:27:57.749: [INFO] Profiles total count: 1
+2026-09-28 12:27:57.750: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:27:57.750: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:27:57.750: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:27:57.750: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:27:57.750: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:27:57.750: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:27:57.750: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:28:30.237: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:29:44.695: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:29:44.695: [INFO] Profiles total count: 1
+2026-09-28 12:29:44.695: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:29:44.695: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:29:44.695: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:29:44.695: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:29:44.695: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:29:44.695: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:29:44.695: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:37:56.674: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:38:04.845: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:38:04.845: [INFO] Profiles total count: 1
+2026-09-28 12:38:04.845: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:38:04.845: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:38:04.845: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:38:04.845: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:38:04.845: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:38:04.845: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:38:04.845: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:38:25.613: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:40:19.006: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:40:19.006: [INFO] Profiles total count: 1
+2026-09-28 12:40:19.006: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:40:19.006: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 12:40:19.006: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 12:40:19.006: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 12:40:19.006: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 12:40:19.006: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 12:40:19.006: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 12:45:00.265: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 23:07:10.610: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 23:07:10.610: [INFO] Profiles total count: 1
+2026-09-28 23:07:10.610: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 23:07:10.610: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 23:07:10.610: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 23:07:10.610: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 23:07:10.610: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 23:07:10.610: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 23:07:10.610: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 23:09:06.727: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 23:09:40.137: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 23:09:40.137: [INFO] Profiles total count: 1
+2026-09-28 23:09:40.137: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 23:09:40.137: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 23:09:40.137: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 23:09:40.137: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 23:09:40.137: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 23:09:40.137: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 23:09:40.137: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 23:21:25.825: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-28 23:22:19.252: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 23:22:19.252: [INFO] Profiles total count: 1
+2026-09-28 23:22:19.252: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 23:22:19.252: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-28 23:22:19.252: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-21T21:05:07.339Z
+2026-09-28 23:22:19.252: [INFO] OnDoneLoading sync enabled: 0
+2026-09-28 23:22:19.252: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-28 23:22:19.252: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-28 23:22:19.252: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-29 02:34:05.611: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:21:48.201: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:21:48.201: [INFO] Profiles total count: 1
+2026-09-30 17:21:48.203: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:21:48.203: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:21:48.203: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:21:48.203: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:21:48.203: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:21:48.203: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:21:48.203: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:23:37.353: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:24:12.410: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:24:12.410: [INFO] Profiles total count: 1
+2026-09-30 17:24:12.410: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:24:12.410: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:24:12.410: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:24:12.410: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:24:12.410: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:24:12.410: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:24:12.410: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:26:01.111: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:26:23.133: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:26:23.133: [INFO] Profiles total count: 1
+2026-09-30 17:26:23.133: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:26:23.133: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:26:23.133: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:26:23.133: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:26:23.133: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:26:23.133: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:26:23.133: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:27:02.792: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:29:44.066: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:29:44.066: [INFO] Profiles total count: 1
+2026-09-30 17:29:44.072: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:29:44.072: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:29:44.072: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:29:44.072: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:29:44.072: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:29:44.072: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:29:44.072: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:30:14.900: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:30:36.249: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:30:36.249: [INFO] Profiles total count: 1
+2026-09-30 17:30:36.250: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:30:36.250: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:30:36.250: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:30:36.250: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:30:36.250: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:30:36.250: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:30:36.250: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:30:51.149: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:32:04.015: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:32:04.015: [INFO] Profiles total count: 1
+2026-09-30 17:32:04.015: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:32:04.015: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:32:04.015: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:32:04.015: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:32:04.015: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:32:04.015: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:32:04.015: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:34:49.783: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:35:19.177: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:35:19.177: [INFO] Profiles total count: 1
+2026-09-30 17:35:19.178: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:35:19.178: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:35:19.178: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:35:19.178: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:35:19.178: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:35:19.178: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:35:19.178: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:35:24.242: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:35:32.883: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:35:32.883: [INFO] Profiles total count: 1
+2026-09-30 17:35:32.883: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:35:32.883: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:35:32.883: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:35:32.883: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:35:32.883: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:35:32.883: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:35:32.883: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:36:35.480: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:40:02.548: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:40:02.548: [INFO] Profiles total count: 1
+2026-09-30 17:40:02.550: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:40:02.550: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:40:02.550: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:40:02.550: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:40:02.550: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:40:02.550: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:40:02.550: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:40:02.912: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:40:19.527: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:40:19.527: [INFO] Profiles total count: 1
+2026-09-30 17:40:19.527: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:40:19.527: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:40:19.527: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:40:19.527: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:40:19.527: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:40:19.527: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:40:19.527: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:41:22.410: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:46:08.374: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:46:08.375: [INFO] Profiles total count: 1
+2026-09-30 17:46:08.375: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:46:08.375: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:46:08.375: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:46:08.375: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:46:08.375: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:46:08.375: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:46:08.375: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:50:42.857: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:51:23.338: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:51:23.338: [INFO] Profiles total count: 1
+2026-09-30 17:51:23.338: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:51:23.338: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:51:23.338: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:51:23.338: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:51:23.338: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:51:23.338: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:51:23.338: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:51:27.307: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:51:30.547: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:51:30.547: [INFO] Profiles total count: 1
+2026-09-30 17:51:30.547: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:51:30.547: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:51:30.547: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:51:30.547: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:51:30.547: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:51:30.547: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:51:30.547: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:51:46.039: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:52:11.678: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:52:11.678: [INFO] Profiles total count: 1
+2026-09-30 17:52:11.678: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:52:11.678: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:52:11.678: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:52:11.678: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:52:11.678: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:52:11.678: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:52:11.678: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:53:32.576: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 17:56:17.239: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:56:17.239: [INFO] Profiles total count: 1
+2026-09-30 17:56:17.241: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:56:17.241: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 17:56:17.241: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 17:56:17.241: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 17:56:17.241: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 17:56:17.241: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 17:56:17.241: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 18:05:53.189: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 18:06:40.868: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 18:06:40.868: [INFO] Profiles total count: 1
+2026-09-30 18:06:40.868: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 18:06:40.868: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 18:06:40.868: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 18:06:40.868: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 18:06:40.868: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 18:06:40.868: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 18:06:40.868: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 18:57:12.093: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:04:01.756: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:04:01.756: [INFO] Profiles total count: 1
+2026-09-30 19:04:01.756: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:04:01.756: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:04:01.756: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:04:01.756: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 19:04:01.756: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 19:04:01.756: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 19:04:01.756: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:19:45.447: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:21:32.749: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:21:32.749: [INFO] Profiles total count: 1
+2026-09-30 19:21:32.749: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:21:32.749: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:21:32.749: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:21:32.749: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 19:21:32.749: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 19:21:32.749: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 19:21:32.749: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:26:54.632: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:26:57.382: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:26:57.382: [INFO] Profiles total count: 1
+2026-09-30 19:26:57.382: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:26:57.382: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:26:57.382: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:26:57.382: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 19:26:57.382: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 19:26:57.382: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 19:26:57.382: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:29:46.986: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:34:22.286: [INFO] CurrentProfilePath: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:34:22.286: [INFO] Profiles total count: 1
+2026-09-30 19:34:22.286: [INFO] Profile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:34:22.286: [INFO] LastUsedProfileDir: C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-09-30 19:34:22.286: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-09-29T02:22:23.228Z
+2026-09-30 19:34:22.286: [INFO] OnDoneLoading sync enabled: 0
+2026-09-30 19:34:22.287: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-30 19:34:22.287: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-30 19:34:22.287: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-30 19:58:59.659: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

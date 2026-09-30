@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;TFPDManagerDB&apos;&#x0D;&#x0A;- Original project: &apos;TFPDManagerDB&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     angus-activation-2.0.3.jar&#x0D;&#x0A;     jakarta.activation-api-2.1.4.jar&#x0D;&#x0A;     jakarta.mail-2.0.5.jar" description="Delete elements" element1="lib/angus-activation-2.0.3.jar" element2="lib/jakarta.activation-api-2.1.4.jar" element3="lib/jakarta.mail-2.0.5.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="3" stamp="1787501629319" subPackages="false" version="1.0"/>
+</session>

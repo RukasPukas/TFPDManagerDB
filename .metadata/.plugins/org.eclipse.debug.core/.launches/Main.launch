@@ -7,6 +7,12 @@
     <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
         <listEntry value="1"/>
     </listAttribute>
+    <mapAttribute key="org.eclipse.debug.core.environmentVariables">
+        <mapEntry key="DATABASE_PW" value="Eintracht7!"/>
+        <mapEntry key="DATABASE_USER" value="tfpd_app"/>
+        <mapEntry key="TFPD_SMTP_PASSWORD" value="fnltdivnqdvhlanh"/>
+        <mapEntry key="TFPD_SMTP_USER" value="tfpdmailerbot@gmail.com"/>
+    </mapAttribute>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_ATTR_USE_ARGFILE" value="false"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
     <booleanAttribute key="org.eclipse.jdt.launching.ATTR_SHOW_CODEDETAILS_IN_EXCEPTION_MESSAGES" value="true"/>

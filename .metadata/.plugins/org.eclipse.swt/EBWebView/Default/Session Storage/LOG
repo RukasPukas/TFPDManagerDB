@@ -1,3 +1,2 @@
-2026/08/14-08:10:44.303 5d8c Reusing MANIFEST C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
-2026/08/14-08:10:44.307 5d8c Recovering log #3
-2026/08/14-08:10:44.313 5d8c Reusing old log C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/000003.log 
+2026/09/30-14:34:48.060 1488 Creating DB C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage since it was missing.
+2026/09/30-14:34:48.071 1488 Reusing MANIFEST C:\Users\16184\Desktop\TFPDManagerDB\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Session Storage/MANIFEST-000001
