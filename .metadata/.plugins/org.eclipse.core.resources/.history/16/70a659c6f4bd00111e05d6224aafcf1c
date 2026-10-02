@@ -44,9 +44,8 @@ public class UpdateUserService
             	updateStatement.setString(4,updatedEmail);
             	updateStatement.setInt(5, securityLevelConversion);
             	updateStatement.setString(6, updatedSecurityAnswer);
-            	updateStatement.setString(7, updatedActivityStatus);
-            	updateStatement.setString(8, userToEdit);
-
+            	updateStatement.setString(7, userToEdit);
+            	updateStatement.setString(8, updatedActivityStatus);
             	
             	 updateStatement.executeUpdate();
             	

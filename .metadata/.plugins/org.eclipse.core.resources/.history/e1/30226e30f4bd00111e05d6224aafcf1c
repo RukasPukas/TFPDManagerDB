@@ -7,9 +7,7 @@ import java.sql.SQLException;
 public class UpdateUserService 
 {
 
-	public static void UpdateUserDB(String userToEdit, int userSecurityLevel, String updatedFName, 
-			String updatedLName, String updatedUsername, String updatedEmail, String updatedSecurityAnswer, 
-			String updatedSecurityLevel, String updatedActivityStatus) throws SQLException
+	public static void UpdateUserDB(String userToEdit, int userSecurityLevel, String updatedFName, String updatedLName, String updatedUsername, String updatedEmail, String updatedSecurityAnswer, String updatedSecurityLevel) throws SQLException
 	{
         int securityLevelConversion = 0;
 
@@ -32,7 +30,7 @@ public class UpdateUserService
         
 
         String updateUserAccountSQL =	"UPDATE users SET firstName =?,  lastName =?,"
-        		+ " userName = ?, userEmail = ?, userSecurityLevel = ?,  userSecurityAnswer =?, status =?  WHERE userName = ?;";
+        		+ " userName = ?, userEmail = ?, userSecurityLevel = ?,  userSecurityAnswer =?  WHERE userName = ?;";
         
         try (Connection connection = DatabaseConnection.getConnection(); 
         		PreparedStatement updateStatement = connection.prepareStatement(updateUserAccountSQL)) 
@@ -44,9 +42,7 @@ public class UpdateUserService
             	updateStatement.setString(4,updatedEmail);
             	updateStatement.setInt(5, securityLevelConversion);
             	updateStatement.setString(6, updatedSecurityAnswer);
-            	updateStatement.setString(7, updatedActivityStatus);
-            	updateStatement.setString(8, userToEdit);
-
+            	updateStatement.setString(7, userToEdit);
             	
             	 updateStatement.executeUpdate();
             	

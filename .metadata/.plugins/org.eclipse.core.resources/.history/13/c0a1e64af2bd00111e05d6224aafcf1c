@@ -1,17 +1,23 @@
 package application;
 
 import java.sql.Connection;
+import javafx.scene.control.RadioButton;
+import javafx.scene.control.ToggleGroup;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.Optional;
 
+import javafx.application.Platform;
 import javafx.collections.ObservableList;
+import javafx.geometry.Insets;
 import javafx.geometry.VPos;
 import javafx.scene.Cursor;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
+import javafx.scene.control.ButtonType;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
@@ -80,6 +86,11 @@ public class UserEditor
 		securityTF.setText(userInfo.securityAnswer());
 		securityTF.setMaxWidth(250);
 		mainArea.getChildren().add(securityTF);
+		if(!enteredUsername.equals(userToEdit))
+		{
+			securityTF.setDisable(true);
+		}
+		
 		
 		Text securityLevel = new Text("Security Level");
 		securityLevel.setFont(Font.font("Menlo",FontWeight.BOLD,16));
@@ -92,23 +103,87 @@ public class UserEditor
 
 		ComboBox<String> positionComboBox = new ComboBox<>(positionOptions);
 		positionComboBox.setStyle("-fx-background-color: #FFFFFF");
+		//positionComboBox.getSelectionModel().select(());
 		positionComboBox.setMaxWidth(250);
 		mainArea.getChildren().add(positionComboBox);
 		
+		
+		
 		Button updateButton = new Button ("Update User");
-		updateButton.setOnAction(event ->{
+		VBox.setMargin(updateButton, new Insets(25,0,25,0));
+		updateButton.setOnAction(event ->
+		{
 			System.out.println("\n" + enteredUsername + " intiated user update...");
-			try {
-				EditExistingUser.EditExistingUserGui(enteredUsername, userSecurityLevel, mainArea,  navBar,  root,  scene);
-			} catch (SQLException e) {
-				Alert populateEditUserListError = new Alert(Alert.AlertType.ERROR);
-				populateEditUserListError.setTitle("Error populating user edit list. ");
-				populateEditUserListError.setHeaderText("Please contact IT assistasnce at LukiSoft.");
-				populateEditUserListError.showAndWait();
-				return;
+			String updatedFName = firstNameTF.getText().toUpperCase();
+			String updatedLName = lastNameTF.getText().toUpperCase();
+			String updatedUsername = new String (updatedFName.charAt(0) + updatedLName).toUpperCase();
+			String updatedEmail = emailTF.getText().toUpperCase();
+			String updatedSecurityAnswer = securityTF.getText().toUpperCase();
+			String updatedSecurityLevel = positionComboBox.getValue();
+			if(updatedSecurityLevel == null)
+			{
+				updatedSecurityLevel = "No change";
 			}
+			String securityAnswerReview = "*".repeat(updatedSecurityAnswer.length());
+			
+			Alert confirmationAlert = new Alert(Alert.AlertType.CONFIRMATION);
+			confirmationAlert.setTitle("Confirmation");
+			confirmationAlert.setHeaderText("Do you wish to update " + userToEdit + " with the following:?");
+			
+			confirmationAlert.setContentText("\nNew first name: " + updatedFName + "\nNew last name: " + updatedLName +"\nNew user name: " + updatedUsername
+					+"\nNew email: " + updatedEmail + "\nNew security answer: " + securityAnswerReview + "\nNew security level: " + updatedSecurityLevel);
+			Optional<ButtonType> result =
+			        confirmationAlert.showAndWait();
+
+			if (result.isPresent()&& result.get() == ButtonType.OK) 
+			{
+				try 
+				{
+					UpdateUserService.UpdateUserDB(userToEdit, userInfo.userSecurityLevel, updatedFName,updatedLName,updatedUsername,updatedEmail,updatedSecurityAnswer,updatedSecurityLevel);
+					
+					
+					if(enteredUsername.equals(userToEdit))
+					{
+						Alert successfulUpdateAlert = new Alert(Alert.AlertType.ERROR);
+						successfulUpdateAlert.setTitle("Successfully updated account: " + updatedUsername);
+						successfulUpdateAlert.setHeaderText("Account Successfully Updated");
+						successfulUpdateAlert.setContentText("Your account has been successfully updated,\nA program restart is now required.");
+						successfulUpdateAlert.showAndWait();
+						Platform.exit();
+						
+					}
+					else
+					{
+						Alert successfulUpdateAlert = new Alert(Alert.AlertType.ERROR);
+						successfulUpdateAlert.setTitle("Successfully updated account: " + updatedUsername);
+						successfulUpdateAlert.setHeaderText("Account Successfully Updated");
+						successfulUpdateAlert.setContentText("The account changes have been made successfully.");
+						successfulUpdateAlert.showAndWait();
+						UserOptionsHub.showUserOptionsWindow( enteredUsername, userSecurityLevel,  mainArea,  navBar,  root,  scene);
+						
+					}
+				} 
+				catch (SQLException e) 
+				{
+					Alert populateEditUserListError = new Alert(Alert.AlertType.ERROR);
+					populateEditUserListError.setTitle("Error updating user information. ");
+					populateEditUserListError.setHeaderText("Please contact IT assistasnce at LukiSoft.");
+					populateEditUserListError.showAndWait();
+					System.out.println("\n**Failed to update user information..**");
+					return;
+					
+					
+				}
+			}
+			else
+			{
+				System.out.println("User backed out of user edit confirmation.");
+			}
+
 			
 		});
+		
+		mainArea.getChildren().add(updateButton);
 		
 		
 		Button goBackButton = new Button ("Go Back");

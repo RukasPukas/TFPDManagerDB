@@ -135,7 +135,6 @@ public class EditExistingUser
 	                SELECT userName
 	                FROM users
 	                WHERE userSecurityLevel <= ?
-	                ORDER BY SUBSTRING(userName, 2) ASC
 	                """;
 	        
 	        try (Connection connection = DatabaseConnection.getConnection(); 

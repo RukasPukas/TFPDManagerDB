@@ -145,15 +145,6 @@ public class UserEditor
 			String updatedEmail = emailTF.getText().toUpperCase();
 			String updatedSecurityAnswer = securityTF.getText().toUpperCase();
 			String updatedSecurityLevel = positionComboBox.getValue();
-			String updatedActivityStatus;
-			if(activeRadio.isSelected())
-			{
-				updatedActivityStatus = "active";
-			}
-			else
-			{
-				updatedActivityStatus = "inactive";
-			}
 			if(updatedSecurityLevel == null)
 			{
 				updatedSecurityLevel = "No change";
@@ -165,8 +156,7 @@ public class UserEditor
 			confirmationAlert.setHeaderText("Do you wish to update " + userToEdit + " with the following:?");
 			
 			confirmationAlert.setContentText("\nNew first name: " + updatedFName + "\nNew last name: " + updatedLName +"\nNew user name: " + updatedUsername
-					+"\nNew email: " + updatedEmail + "\nNew security answer: " + securityAnswerReview + "\nNew security level: " + updatedSecurityLevel +
-					"\nAccount status: " + updatedActivityStatus);
+					+"\nNew email: " + updatedEmail + "\nNew security answer: " + securityAnswerReview + "\nNew security level: " + updatedSecurityLevel);
 			Optional<ButtonType> result =
 			        confirmationAlert.showAndWait();
 
@@ -174,7 +164,7 @@ public class UserEditor
 			{
 				try 
 				{
-					UpdateUserService.UpdateUserDB(userToEdit, userInfo.userSecurityLevel, updatedFName,updatedLName,updatedUsername,updatedEmail,updatedSecurityAnswer,updatedSecurityLevel,updatedActivityStatus);
+					UpdateUserService.UpdateUserDB(userToEdit, userInfo.userSecurityLevel, updatedFName,updatedLName,updatedUsername,updatedEmail,updatedSecurityAnswer,updatedSecurityLevel);
 					
 					
 					if(enteredUsername.equals(userToEdit))
