@@ -1,0 +1,34 @@
+package bulletin;
+
+import java.util.ArrayList;
+import java.util.Properties;
+
+import application.EnvironmentConfig;
+
+public class EmailSelectedUseersBulletin 
+{
+	public static void emailSelectedUsers(String enteredUsername, String newBulletinText, ArrayList<String> selectedPositions)
+	{
+        StringBuilder securityLevelConversion;
+
+        if (selectedPositions.contains("Part-Time EMS")) {securityLevelConversion.append("1");}
+
+        String getEmailAddressesSQL = """
+                SELECT userEmail
+                FROM users
+                WHERE userSecurityLevel = ?
+                """;
+		
+		String smtpUser = EnvironmentConfig.getSmtpUser();
+        String smtpPassword = EnvironmentConfig.getSmtpPassword();
+        Properties properties = new Properties();
+        properties.put("mail.smtp.auth", "true");
+        properties.put("mail.smtp.host","smtp.gmail.com");
+        properties.put("mail.smtp.port","587");
+        properties.put("mail.smtp.starttls.enable", "true");
+        properties.put("mail.smtp.starttls.required","true");
+    	properties.put("mail.smtp.connectiontimeout","10000");
+    	properties.put("mail.smtp.timeout","10000");
+    	properties.put("mail.smtp.writetimeout","10000");
+	}
+}

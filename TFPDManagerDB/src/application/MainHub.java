@@ -28,7 +28,7 @@ import javafx.stage.Screen;
 
 public class MainHub 
 {
-	public static void showWindow(String enteredUsername,int userSecurityLevel)
+	public static void showWindow(String enteredUsername,int userSecurityLevel) throws SQLException
     {
 		
 //ESTABLISH STAGE--------------------------------------------------------------
@@ -215,8 +215,18 @@ public class MainHub
 			
 		});
 		
-//--------------------------------------------------END NAVBAR SECTION
+		 homeButton.setOnAction(event -> {
+			 System.out.println(enteredUsername +" pressed return to home button button.");
+				try {
+					LandingPage.landingPage(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
+				} catch (SQLException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+		 });
 		
+//--------------------------------------------------END NAVBAR SECTION
+		LandingPage.landingPage(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
 
 
 		

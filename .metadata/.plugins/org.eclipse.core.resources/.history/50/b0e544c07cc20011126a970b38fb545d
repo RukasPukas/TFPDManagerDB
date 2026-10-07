@@ -1,0 +1,229 @@
+package application;
+
+import javafx.scene.Cursor;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
+import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.Stop;
+import javafx.scene.shape.Rectangle;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+
+import java.sql.SQLException;
+
+import javafx.beans.binding.Bindings;
+import javafx.stage.Stage;
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
+import javafx.geometry.Rectangle2D;
+import javafx.geometry.VPos;
+import javafx.stage.Screen;
+
+public class MainHub 
+{
+	public static void showWindow(String enteredUsername,int userSecurityLevel)
+    {
+		
+//ESTABLISH STAGE--------------------------------------------------------------
+    	Stage mainHubStage = new Stage();
+    	Group root = new Group();
+    	//mainHubStage.setOnCloseRequest(event -> {
+        //event.consume();
+   		//});
+    	mainHubStage.setTitle("Main Hub");
+    	Rectangle2D screenBounds =
+    	        Screen.getPrimary().getVisualBounds();
+
+    	mainHubStage.setWidth(
+    	        screenBounds.getWidth() * 0.90
+    	);
+
+    	mainHubStage.setHeight(
+    	        screenBounds.getHeight() * 0.90
+    	);
+
+    	mainHubStage.centerOnScreen();
+    	mainHubStage.setResizable(false);
+    	
+		LinearGradient pagreGradient = new LinearGradient(
+		        0, 0,
+		        0, 1,
+		        true,
+		        CycleMethod.NO_CYCLE,
+		        new Stop(0, Color.web("#ebeced")),
+		        new Stop(1, Color.web("#234C6B")));
+    	Scene scene = new Scene(root,pagreGradient);
+		Image icon = new Image("TFPDLogoFull.jpg");
+		mainHubStage.getIcons().add(icon);
+		mainHubStage.setOnCloseRequest(event -> {
+		    event.consume();
+		});
+		
+//ESTABLISH STAGE--------------------------------------------------------------	
+		
+
+//set tfpdHeaderText----------------------------------------------------------
+		Text tfpdHeaderText = new Text();
+		tfpdHeaderText.setText("TFPD Manager DB");
+		tfpdHeaderText.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		LinearGradient logoTextGradient = new LinearGradient(
+		        0, 0,
+		        0, 1,
+		        true,
+		        CycleMethod.NO_CYCLE,
+		        new Stop(0, Color.web("#39414d")),
+		        new Stop(1, Color.web("#4872b5"))
+		);
+
+		tfpdHeaderText.setFill(logoTextGradient);
+		tfpdHeaderText.setTextOrigin(VPos.TOP);
+
+		tfpdHeaderText.xProperty().bind(
+		        scene.widthProperty().multiply(0.025)
+		);
+
+		tfpdHeaderText.yProperty().bind(
+		        scene.heightProperty().multiply(0.02)
+		);
+		root.getChildren().add(tfpdHeaderText);
+		
+//set tfpdHeaderText----------------------------------------------------------
+		
+//Add TFPD Image--------------------------------------------------------------
+		Image logoImage = new Image("TFPDLogoFull.jpg");
+		ImageView logoView = new ImageView(logoImage);
+		logoView.setFitWidth(100);
+		logoView.setPreserveRatio(true);
+		logoView.xProperty().bind(scene.widthProperty().multiply(.935));
+		// Determine the displayed height based on image ratio
+		double logoHeight = 200 * logoImage.getHeight() / logoImage.getWidth();
+		root.getChildren().add(logoView);
+//End Add TFPD IMAGE----------------------------------------------------------		
+		
+//Name Header Generation
+		
+		String firstName;
+		String lastName;
+		try 
+		{
+			 firstName = ReturnAccountInformationSerivce.ReturnFirstName(enteredUsername);
+			 lastName = ReturnAccountInformationSerivce.ReturnLastName(enteredUsername);
+		} 
+		catch (SQLException e) 
+		{
+			firstName = "Unknown";
+			lastName = "Unknown";
+			e.printStackTrace();
+		}
+		String fullName = firstName + " " + lastName;
+		
+		Text nameDisplay = new Text();
+		nameDisplay.setText("Welcome " + fullName +"!");
+		nameDisplay.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		nameDisplay.setFill(logoTextGradient);
+		nameDisplay.setTextOrigin(VPos.TOP);
+		nameDisplay.xProperty().bind(scene.widthProperty().multiply(0.025));
+		nameDisplay.yProperty().bind(scene.heightProperty().multiply(0.07));
+		root.getChildren().add(nameDisplay);
+//Name Header Generation
+
+//ESTABLISH HEADER RECTANGLE---------------------------------------------------
+		Rectangle headerRectangle = new Rectangle();
+		headerRectangle.setX(0);
+		headerRectangle.layoutYProperty().bind(Bindings.createDoubleBinding(() -> nameDisplay.getBoundsInParent().getMaxY() + 9,nameDisplay.boundsInParentProperty()));
+		headerRectangle.widthProperty().bind(scene.widthProperty());
+		headerRectangle.heightProperty().bind(scene.heightProperty().multiply(0.05));
+		headerRectangle.setFill(logoTextGradient);
+		root.getChildren().add(headerRectangle);
+//ESTABLISH HEADER RECTANGLE---------------------------------------------------	
+		
+//BEGIN MAIN CONTENT SECTION------------------------------------------
+		VBox mainArea = new VBox();
+		root.getChildren().add(mainArea);
+		
+//END MAIN CONTENT SECTION--------------------------------------------
+
+//Establish NavBar-------------------------------------------------------------
+		VBox navBar = new VBox();
+		navBar.setStyle("-fx-background-color: linear-gradient(" + "from 0% 0% to 0% 100%, " + "#234C6B 0%, " + "#0e202e 100%" +");");
+		navBar.setAlignment(Pos.TOP_LEFT);
+		navBar.setPadding(new Insets(10,10,10,10));
+		navBar.layoutXProperty().bind(scene.widthProperty().multiply(0));
+		navBar.layoutYProperty().bind(Bindings.createDoubleBinding(() -> headerRectangle.getBoundsInParent().getMaxY() + 0, headerRectangle.boundsInParentProperty()));
+		navBar.prefWidthProperty().bind(scene.widthProperty().multiply(0.25));
+		navBar.prefHeightProperty().bind(scene.heightProperty().multiply(1));
+		navBar.setSpacing(10);
+		navBar.setFillWidth(true);
+		root.getChildren().add(navBar);
+//Establish NavBar-------------------------------------------------------------
+		
+//Populate NavBar--------------------------------------------------------------
+		
+		Button homeButton = new Button("Main");
+		Button dailyLogButton = new Button("Daily Log");
+		Button reportsButton = new Button("Reports");
+		Button userSettingsButton = new Button("User Settings");
+		Button logOutButton = new Button("Logout");
+		navBar.getChildren().addAll(homeButton,dailyLogButton,reportsButton,userSettingsButton, logOutButton);
+		for (javafx.scene.Node node : navBar.getChildren()) 
+		{
+			
+		    if (node instanceof Button button) {
+
+		        
+		        button.setPrefHeight(50);
+		        button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
+		        button.setStyle("-fx-background-color: #ebeced;");
+		        button.setMaxWidth(Double.MAX_VALUE);
+		        button.setMaxHeight(50);
+		        button.setOnMouseEntered(event -> {button.setStyle("-fx-background-color: #fafdff");});
+		        button.setOnMouseExited(event -> {button.setStyle("-fx-background-color: #ebeced;");});
+		        button.setOnMousePressed(event -> {button.setStyle("-fx-background-color: #4f7e9e;");});
+		        button.setOnMouseReleased(event ->{button.setStyle("-fx-background-color:  #fafdff;");});
+		        button.setCursor(Cursor.HAND);
+
+		
+		}
+	    //LOGOUT BUTTON ACTIONS
+	    logOutButton.setOnAction(event -> {
+			System.out.println("User Logged Out.");
+			try 
+			{
+				UserLogoutTimeStampService.recordSuccessfulLogout(enteredUsername);
+			} catch (SQLException e) 
+			{
+				System.out.println("Unable to record logout.");
+				e.printStackTrace();
+			}
+		    mainHubStage.close();
+		});
+		mainHubStage.setScene(scene);
+		mainHubStage.show();
+    }
+		//USER SETTINGS BUTTON ACTIONS
+		userSettingsButton.setOnAction(event -> {
+			mainArea.getChildren().clear();
+			System.out.println(enteredUsername +" pressed user settings button.");
+			UserOptionsHub.showUserOptionsWindow(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
+			
+		});
+		
+		 homeButton.setOnAction(event -> {
+			 System.out.println(enteredUsername +" pressed return to home button button.");
+				LandingPage.landingPage(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
+		 });
+		
+//--------------------------------------------------END NAVBAR SECTION
+		
+
+
+		
+}
+}

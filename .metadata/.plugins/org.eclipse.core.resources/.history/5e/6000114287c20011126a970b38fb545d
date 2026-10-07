@@ -1,0 +1,131 @@
+package application;
+
+import javafx.geometry.Insets;
+import javafx.geometry.Pos;
+import javafx.geometry.VPos;
+import javafx.scene.Cursor;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.TextArea;
+import javafx.scene.layout.Background;
+import javafx.scene.layout.BackgroundFill;
+import javafx.scene.layout.CornerRadii;
+import javafx.scene.layout.HBox;
+import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.Stop;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+
+public class LandingPage 
+{
+	public static void landingPage(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+
+		LinearGradient logoTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#4872b5")));
+
+		
+		HBox landingContent = new HBox();
+		landingContent.setSpacing(50);
+		landingContent.setAlignment(Pos.TOP_CENTER);
+		
+		//----------------------------------------------------LEFT COLUMN -------------------------------------------------
+		
+		VBox bulletinColumn = new VBox();
+		bulletinColumn.setSpacing(10);
+		bulletinColumn.setAlignment(Pos.TOP_CENTER);
+
+
+		VBox bulletinBoard = new VBox();
+		bulletinBoard.setStyle("-fx-background-color: linear-gradient(" +"from 0% 0% to 0% 100%, " +"#234C6B 0%, " +"#0e202e 100%" +");" +"-fx-background-radius: 15;");
+		bulletinBoard.setPrefSize(350, 575);
+		bulletinBoard.setAlignment(Pos.CENTER);
+		bulletinBoard.setFillWidth(false);
+		
+		TextArea bulletinTextArea = new TextArea();
+		bulletinTextArea.setEditable(false);
+		bulletinTextArea.prefWidthProperty().bind(bulletinBoard.widthProperty().multiply(0.95));
+		bulletinTextArea.prefHeightProperty().bind(bulletinBoard.heightProperty().multiply(0.95));
+		bulletinTextArea.setFocusTraversable(false);
+		bulletinTextArea.setMouseTransparent(true);
+
+
+		bulletinBoard.getChildren().add(bulletinTextArea);
+
+
+		Text bulletinHeader = new Text("Bulletin Board");
+		bulletinHeader.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		bulletinHeader.setFill(logoTextGradient);
+		
+		Button bulletinButton = new Button("Post To Bulletin Board");
+
+		bulletinColumn.getChildren().addAll(bulletinHeader,bulletinBoard,bulletinButton);
+		
+		//------------------------------------------------END LEFT COLUMN---------------------------------------------------
+
+		//----------------------------------------------------RIGHT COLUMN -------------------------------------------------		
+		
+		VBox eventColumn = new VBox();
+		eventColumn.setSpacing(10);
+		eventColumn.setAlignment(Pos.TOP_CENTER);
+		
+		VBox eventBoard = new VBox();
+		eventBoard.setStyle("-fx-background-color: linear-gradient(" +"from 0% 0% to 0% 100%, " +"#234C6B 0%, " +"#0e202e 100%" +");" +"-fx-background-radius: 15;");
+		eventBoard.setPrefSize(350, 575);
+		
+		Text eventHeader = new Text("Event Log");
+		eventHeader.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		eventHeader.setFill(logoTextGradient);
+		
+		Button eventButton = new Button("Add Event");
+
+		eventColumn.getChildren().addAll(eventHeader,eventBoard,eventButton);
+		
+		//------------------------------------------------END RIGHT COLUMN---------------------------------------------------
+		
+		landingContent.getChildren().addAll(
+		        bulletinColumn, eventColumn
+		);
+		
+		mainArea.getChildren().add(landingContent);
+		
+		Button[] landingPageButtons = 
+				{
+		        bulletinButton, eventButton
+		        };
+
+		for (Button button : landingPageButtons) 
+		{
+			
+		    button.setPrefHeight(50);
+		    button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
+		    button.setStyle("-fx-background-color: #ebeced;");
+		    button.setMaxWidth(350);
+		    button.setMaxHeight(50);
+
+		    button.setOnMouseEntered(event ->
+		            button.setStyle("-fx-background-color: #fafdff;"));
+
+		    button.setOnMouseExited(event ->
+		            button.setStyle("-fx-background-color: #ebeced;"));
+
+		    button.setOnMousePressed(event ->
+		            button.setStyle("-fx-background-color: #4f7e9e;"));
+
+		    button.setOnMouseReleased(event ->
+		            button.setStyle("-fx-background-color: #fafdff;"));
+
+		    button.setCursor(Cursor.HAND);
+		}
+		
+		    	
+
+
+	}
+}

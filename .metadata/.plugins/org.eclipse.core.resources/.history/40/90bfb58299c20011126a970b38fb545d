@@ -1,0 +1,33 @@
+package bulletin;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import application.DatabaseConnection;
+
+public class PostToBulletinService
+{
+	
+	public static void updateBulletinDB(String enteredUsername, String newBulletinText, String dateEntered) throws SQLException
+	{
+        String updateBulletinLog =	                
+        		"""
+        		INSERT INTO bulletinposts
+                (
+                        userName,
+                        dateEntered,
+                        postText
+
+                    )
+                    VALUES (?, ?, ?)
+                    """;
+        
+        try (Connection connection = DatabaseConnection.getConnection(); 
+        		PreparedStatement checkStatement = connection.prepareStatement(updateBulletinLog)) 
+        {
+        	
+        }
+	}
+
+}

@@ -1,0 +1,24 @@
+package bulletin;
+
+public class PostToBulletinService
+{
+	
+	public static void updateBulletinDB(String enteredUsername, String newBulletinText, String dateEntered)
+	{
+        String updateBulletinLog =	                
+        		"""
+        		INSERT INTO users
+                (
+                        firstName,
+                        lastName,
+                        userName,
+                        userEmail,
+                        userPassword,
+                        userSecurityAnswer,
+                        userSecurityLevel
+                    )
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+                    """;
+	}
+
+}

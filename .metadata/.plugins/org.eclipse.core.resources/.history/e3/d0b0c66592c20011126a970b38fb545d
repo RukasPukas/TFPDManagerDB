@@ -1,0 +1,137 @@
+package bulletin;
+import java.sql.SQLException;
+
+import application.LandingPage;
+import application.UserOptionsHub;
+import javafx.scene.Cursor;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.TextArea;
+import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.CycleMethod;
+import javafx.scene.paint.LinearGradient;
+import javafx.scene.paint.Stop;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+import javafx.scene.control.MenuButton;
+import javafx.scene.control.CheckMenuItem;
+import javafx.scene.control.MenuItem;
+import javafx.collections.ObservableList;
+import javafx.geometry.Insets;
+import javafx.scene.control.Button;
+import javafx.scene.control.CheckBox;
+import javafx.scene.control.CustomMenuItem;
+
+public class BulletinHub 
+{
+	
+	public static void bulletinHub (String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene) throws SQLException
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+		
+		LinearGradient logoTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#4872b5")));
+
+		Text updateBulletinHeader = new Text("Post to Bulletin Board");
+		updateBulletinHeader.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		updateBulletinHeader.setFill(logoTextGradient);
+		mainArea.getChildren().add(updateBulletinHeader);
+		
+		
+		Text textPrompt = new Text("Text:");
+		textPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,16));
+		textPrompt.setFill(logoTextGradient);
+		mainArea.getChildren().add(textPrompt);
+		
+		
+		TextArea newPostTA = new TextArea();
+		newPostTA.setEditable(true);
+		newPostTA.prefWidthProperty().bind(mainArea.widthProperty().multiply(0.75));
+		newPostTA.maxWidthProperty().bind(mainArea.widthProperty().multiply(0.75));
+		newPostTA.setWrapText(true);
+		mainArea.getChildren().add(newPostTA);
+		
+		Text emailHeader = new Text("Email Users?");
+		emailHeader.setFont(Font.font("Menlo",FontWeight.BOLD,16));
+		emailHeader.setFill(logoTextGradient);
+		mainArea.getChildren().add(emailHeader);
+		
+		String[] positionOptions = {
+				
+				"All",
+		        "Part-Time EMS",
+		        "POC-Fire",
+		        "POC-Fire Lieutenant",
+		        "POC-Fire Captain",
+		        "Full-Time",
+		        "Full-Time Lieutenant",
+		        "Full-Time Captain",
+		        "Assistant Chief",
+		        "Deputy Chief",
+		        "Chief"
+		};
+		
+		MenuButton positionMenu =new MenuButton("Email Groups (optional)");
+
+		for (String position : positionOptions)
+		{
+		    CheckBox positionCheckBox =
+		            new CheckBox(position);
+
+		    CustomMenuItem positionItem =
+		            new CustomMenuItem(positionCheckBox);
+
+		    positionItem.setHideOnClick(false);
+
+		    positionMenu.getItems().add(positionItem);
+		}
+		mainArea.getChildren().add(positionMenu);
+				
+		
+		Button submitButton = new Button("Submit");
+		VBox.setMargin(submitButton, new Insets(25,0,25,0));
+		submitButton.setOnAction(event -> 
+		{
+			
+		});
+		
+		
+		Button goBackButton = new Button("Cancel");
+		goBackButton.setOnAction(event ->
+			{
+				System.out.println(enteredUsername + " backed out of bulletin board posting menu.");
+				LandingPage.landingPage(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
+			});
+		
+		
+		
+		mainArea.getChildren().addAll(
+		        submitButton,
+		        goBackButton
+		);
+		
+		Button[] buttons = {submitButton, goBackButton};
+			
+		    for (Button button : buttons)
+		    {
+		        button.setPrefHeight(50);
+		        button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
+		        button.setStyle("-fx-background-color: #ebeced;");
+		        button.setMaxWidth(300);
+		        button.setMaxHeight(50);
+		        button.setOnMouseEntered(event -> {button.setStyle("-fx-background-color: #fafdff");});
+		        button.setOnMouseExited(event -> {button.setStyle("-fx-background-color: #ebeced;");});
+		        button.setOnMousePressed(event -> {button.setStyle("-fx-background-color: #4f7e9e;");});
+		        button.setOnMouseReleased(event ->{button.setStyle("-fx-background-color:  #fafdff;");});
+		        button.setCursor(Cursor.HAND);
+
+		
+		    	}
+		
+		
+		
+	}
+
+}

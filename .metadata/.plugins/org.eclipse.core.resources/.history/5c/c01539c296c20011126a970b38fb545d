@@ -1,0 +1,11 @@
+package bulletin;
+
+public class PostToBulletinService
+{
+	
+	public void updateBulletinDB()
+	{
+		
+	}
+
+}

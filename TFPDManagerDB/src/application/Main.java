@@ -240,6 +240,7 @@ public class Main extends Application {
 								//Initialize Main Hub!
 								UserLoginTimeStampService.recordSuccessfulLogin(enteredUsername);
 						        MainHub.showWindow(enteredUsername, userSecurityLevel);
+						        
 						        launchStage.close();
 							}
 							else

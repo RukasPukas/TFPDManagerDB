@@ -1,0 +1,9 @@
+package bulletin;
+
+public class EmailSelectedUseersBulletin 
+{
+	public static void emailSelectedUsers()
+	{
+		
+	}
+}

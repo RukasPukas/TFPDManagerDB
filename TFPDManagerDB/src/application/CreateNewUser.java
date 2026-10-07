@@ -159,7 +159,7 @@ public class CreateNewUser
 						System.out.println("Error calling CreateNewUserService");
 						Alert classCallError = new Alert(Alert.AlertType.ERROR);
 						classCallError.setTitle("Error calling method to create new user class. ");
-						classCallError.setHeaderText("Please contact IT assistasnce at LukiSoft.");
+						classCallError.setHeaderText("Please contact IT assistance at LukiSoft.");
 						classCallError.showAndWait();
 						e.printStackTrace();
 						return;

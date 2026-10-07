@@ -1,0 +1,45 @@
+package bulletin;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import application.DatabaseConnection;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+
+public class ReturnAllUsersService
+{
+    public static ObservableList<String> returnAllUsers() throws SQLException
+    {
+        ObservableList<String> users =
+                FXCollections.observableArrayList();
+
+        String sql = """
+                SELECT userName
+                FROM users
+                WHERE status = 'active'
+                ORDER BY SUBSTRING(userName, 2) ASC
+                """;
+
+        try (
+            Connection connection =
+                    DatabaseConnection.getConnection();
+
+            PreparedStatement statement =
+                    connection.prepareStatement(sql);
+
+            ResultSet results =
+                    statement.executeQuery()
+        )
+        {
+            while (results.next())
+            {
+                users.add(
+                        results.getString("userName")
+                );
+            }
+        }
+
+        return users;
+    }
+}

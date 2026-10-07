@@ -1,0 +1,13 @@
+package bulletin;
+
+import java.util.ArrayList;
+
+import application.EnvironmentConfig;
+
+public class EmailSelectedUseersBulletin 
+{
+	public static void emailSelectedUsers(String enteredUsername, String newBulletinText, ArrayList<String> selectedPositions)
+	{
+		String smtpUser = EnvironmentConfig.getSmtpUser();
+	}
+}

@@ -140,7 +140,7 @@ public class CreateNewUserService {
 						System.out.println("Welcome Email was not sent");
 						Alert emailGenerationError = new Alert(Alert.AlertType.ERROR);
 						emailGenerationError.setTitle("Error sending welcome message. ");
-						emailGenerationError.setHeaderText("Please contact IT assistasnce at LukiSoft.");
+						emailGenerationError.setHeaderText("Please contact IT assistance at LukiSoft.");
 						emailGenerationError.showAndWait();
 					}
 
@@ -150,7 +150,7 @@ public class CreateNewUserService {
 					System.out.println("Datbase could not be updated");
 					Alert emailGenerationError = new Alert(Alert.AlertType.ERROR);
 					emailGenerationError.setTitle("There was an error updating the database with the new user credentials.. ");
-					emailGenerationError.setHeaderText("Please contact IT assistasnce at LukiSoft.");
+					emailGenerationError.setHeaderText("Please contact IT assistance at LukiSoft.");
 					emailGenerationError.showAndWait();
                     throw new SQLException("New user could not be created.");
                 }

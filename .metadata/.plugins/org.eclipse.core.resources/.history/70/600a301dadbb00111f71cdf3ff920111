@@ -1,9 +1,0 @@
-package application;
-
-public record UserAccountInfo(
-        String firstName,
-        String lastName,
-        String userEmail,
-        int userSecurityLevel)
-{
-}

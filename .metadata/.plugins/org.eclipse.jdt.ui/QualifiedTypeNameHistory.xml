@@ -5,5 +5,8 @@
     <fullyQualifiedTypeName name="javafx.scene.Cursor"/>
     <fullyQualifiedTypeName name="javafx.scene.control.Alert"/>
     <fullyQualifiedTypeName name="javafx.scene.control.Alert.AlertType"/>
+    <fullyQualifiedTypeName name="application.LandingPage"/>
+    <fullyQualifiedTypeName name="bulletin.BulletinHub"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="bulletin.ReturnBulletinInfoService"/>
 </qualifiedTypeNameHistroy>
