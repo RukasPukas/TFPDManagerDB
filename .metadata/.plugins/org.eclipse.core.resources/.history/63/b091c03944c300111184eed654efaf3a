@@ -1,0 +1,27 @@
+package events;
+
+import application.UserOptionsHub;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.layout.VBox;
+
+public class EventHub 
+{
+	public static void eventHubInitializer(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+		setUpEventHubGUI(mainArea);
+	}
+	
+	
+	private static void setUpEventHubGUI(VBox mainArea)
+	{
+
+		Button fireButton = new Button("Fire Event");
+		Button emsButton = new Button("EMS Event");
+		Button trainingButton = new Button ("Training Event");
+	}
+
+}

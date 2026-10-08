@@ -1,21 +1,21 @@
 package application;
 import bulletin.BulletinHub;
 import bulletin.ReturnBulletinInfoService;
+import events.EventHub;
+
 
 import java.sql.SQLException;
 
-import javafx.geometry.Insets;
+
 import javafx.geometry.Pos;
-import javafx.geometry.VPos;
+
 import javafx.scene.Cursor;
 import javafx.scene.Group;
 import javafx.scene.Scene;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextArea;
-import javafx.scene.layout.Background;
-import javafx.scene.layout.BackgroundFill;
-import javafx.scene.layout.CornerRadii;
+
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
@@ -25,6 +25,7 @@ import javafx.scene.paint.Stop;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
+import universal.Styling;
 
 public class LandingPage 
 {
@@ -33,9 +34,6 @@ public class LandingPage
 		mainArea.getChildren().clear();
 		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
 
-		LinearGradient logoTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#4872b5")));
-
-		
 		HBox landingContent = new HBox();
 		landingContent.setSpacing(50);
 		landingContent.setAlignment(Pos.TOP_CENTER);
@@ -71,7 +69,7 @@ public class LandingPage
 
 		Text bulletinHeader = new Text("Bulletin Board");
 		bulletinHeader.setFont(Font.font("Menlo",FontWeight.BOLD,24));
-		bulletinHeader.setFill(logoTextGradient);
+		bulletinHeader.setFill(Styling.logoGradient());
 		
 		Button bulletinButton = new Button("Post To Bulletin Board");
 		bulletinButton.setOnAction(event -> 
@@ -108,9 +106,14 @@ public class LandingPage
 		
 		Text eventHeader = new Text("Event Log");
 		eventHeader.setFont(Font.font("Menlo",FontWeight.BOLD,24));
-		eventHeader.setFill(logoTextGradient);
+		eventHeader.setFill(Styling.logoGradient());
 		
 		Button eventButton = new Button("Add Event");
+		eventButton.setOnAction(event -> 
+			{
+				System.out.println(enteredUsername + " pressed add event button.");
+				EventHub.eventHubInitializer( enteredUsername,  userSecurityLevel,  mainArea,  navBar,  root,  scene);
+			});
 
 
 		eventColumn.getChildren().addAll(eventHeader,eventBoard,eventButton);

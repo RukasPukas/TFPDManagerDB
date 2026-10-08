@@ -1,0 +1,18 @@
+package events;
+
+import application.UserOptionsHub;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.layout.VBox;
+
+public class EventHub 
+{
+	public static void eventHubInitializer(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+	}
+	
+	
+
+}

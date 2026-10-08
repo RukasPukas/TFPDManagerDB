@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
     <fullyQualifiedTypeName name="javafx.scene.text.Font"/>
     <fullyQualifiedTypeName name="javafx.scene.Cursor"/>
     <fullyQualifiedTypeName name="javafx.scene.control.Alert"/>
@@ -9,4 +8,8 @@
     <fullyQualifiedTypeName name="bulletin.BulletinHub"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="bulletin.ReturnBulletinInfoService"/>
+    <fullyQualifiedTypeName name="events.EventGUI"/>
+    <fullyQualifiedTypeName name="events.EventHub"/>
+    <fullyQualifiedTypeName name="universal.Styling"/>
+    <fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
 </qualifiedTypeNameHistroy>

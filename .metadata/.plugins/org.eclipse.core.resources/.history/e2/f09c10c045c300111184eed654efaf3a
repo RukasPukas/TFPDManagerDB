@@ -1,0 +1,71 @@
+package events;
+
+import application.UserOptionsHub;
+import javafx.geometry.Insets;
+import javafx.scene.Cursor;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.layout.VBox;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+import universal.Styling;
+
+public class EventHub 
+{
+	public static void eventHubInitializer(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+
+		setUpEventHubGUI(mainArea);
+		
+		
+	}
+	
+	
+	private static void setUpEventHubGUI(VBox mainArea)
+	{
+		Text headerText = new Text("Select Event Type");
+		Styling.logoGradient();
+		headerText.setFill(logoTextGradient));
+		
+
+		Button fireButton = new Button("Fire Event");
+		Button emsButton = new Button("EMS Event");
+		Button trainingButton = new Button ("Training Event");
+		mainArea.getChildren().addAll(fireButton,emsButton,trainingButton);
+
+		
+		Button[] EventHubButtons = 
+			{
+				fireButton, emsButton , trainingButton
+	        };
+
+	for (Button button : EventHubButtons) 
+	{
+		
+	    button.setPrefHeight(50);
+	    button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
+	    button.setStyle("-fx-background-color: #ebeced;");
+	    button.setMaxWidth(350);
+	    button.setMaxHeight(50);
+		VBox.setMargin(button, new Insets(50,0,50,0));
+	    button.setOnMouseEntered(event ->
+	            button.setStyle("-fx-background-color: #fafdff;"));
+
+	    button.setOnMouseExited(event ->
+	            button.setStyle("-fx-background-color: #ebeced;"));
+
+	    button.setOnMousePressed(event ->
+	            button.setStyle("-fx-background-color: #4f7e9e;"));
+
+	    button.setOnMouseReleased(event ->
+	            button.setStyle("-fx-background-color: #fafdff;"));
+
+	    button.setCursor(Cursor.HAND);
+	}
+	}
+
+}
