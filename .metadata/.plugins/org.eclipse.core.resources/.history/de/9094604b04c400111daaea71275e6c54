@@ -1,0 +1,80 @@
+package events;
+
+import application.UserOptionsHub;
+import javafx.geometry.Insets;
+import javafx.scene.Cursor;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+import universal.Styling;
+
+public class EventHub 
+{
+	public static void eventHubInitializer(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+
+		setUpEventHubGUI(mainArea);
+		
+		
+	}
+	
+	
+	private static void setUpEventHubGUI(VBox mainArea)
+	{
+		Text headerText = new Text("Select Event Type");
+		Styling.logoGradient();
+		headerText.setFont(null);
+		headerText.setFill(Styling.logoGradient());
+		headerText.setFont(Font.font("Menlo",FontWeight.BOLD,20));
+		mainArea.getChildren().add(headerText);
+
+
+		Button fireButton = new Button("Fire Event");
+		fireButton.setStyle("-fx-background-color: #c21717;");
+		fireButton.setOnMouseEntered(event -> fireButton.setStyle("-fx-background-color: #f20707;"));
+		fireButton.setOnMouseExited(event -> fireButton.setStyle("-fx-background-color: #c21717;"));
+		fireButton.setTextFill(Color.WHITE);
+
+	    
+		Button emsButton = new Button("EMS Event");
+		emsButton.setStyle("-fx-background-color: #1a1b40;");
+		emsButton.setOnMouseEntered(event -> emsButton.setStyle("-fx-background-color: #232669;"));
+		emsButton.setOnMouseExited(event -> emsButton.setStyle("-fx-background-color: #1a1b40;"));
+		emsButton.setTextFill(Color.WHITE);
+	    
+		Button trainingButton = new Button ("Training Event");
+		trainingButton.setStyle("-fx-background-color: #9e9c08;");
+		trainingButton.setOnMouseEntered(event -> trainingButton.setStyle("-fx-background-color: #c9c608;"));
+		trainingButton.setOnMouseExited(event -> trainingButton.setStyle("-fx-background-color: #9e9c08;"));
+		trainingButton.setTextFill(Color.WHITE);
+	    
+		mainArea.getChildren().addAll(fireButton,emsButton,trainingButton);
+
+		
+		Button[] EventHubButtons = 
+			{
+				fireButton, emsButton , trainingButton
+	        };
+
+	for (Button button : EventHubButtons) 
+	{
+		
+	    button.setPrefHeight(50);
+	    button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
+	    button.setMaxWidth(350);
+	    button.setMaxHeight(50);
+		VBox.setMargin(button, new Insets(50,0,50,0));
+
+
+	    button.setCursor(Cursor.HAND);
+	}
+	}
+
+}

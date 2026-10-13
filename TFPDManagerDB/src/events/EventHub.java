@@ -1,5 +1,7 @@
 package events;
 
+import java.sql.SQLException;
+
 import application.UserOptionsHub;
 import javafx.geometry.Insets;
 import javafx.scene.Cursor;
@@ -20,17 +22,16 @@ public class EventHub
 		mainArea.getChildren().clear();
 		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
 
-		setUpEventHubGUI(mainArea);
+		setUpEventHubGUI(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
 		
 		
 	}
 	
 	
-	private static void setUpEventHubGUI(VBox mainArea)
+	private static void setUpEventHubGUI(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
 	{
 		Text headerText = new Text("Select Event Type");
 		Styling.logoGradient();
-		headerText.setFont(null);
 		headerText.setFill(Styling.logoGradient());
 		headerText.setFont(Font.font("Menlo",FontWeight.BOLD,20));
 		mainArea.getChildren().add(headerText);
@@ -41,6 +42,11 @@ public class EventHub
 		fireButton.setOnMouseEntered(event -> fireButton.setStyle("-fx-background-color: #f20707;"));
 		fireButton.setOnMouseExited(event -> fireButton.setStyle("-fx-background-color: #c21717;"));
 		fireButton.setTextFill(Color.WHITE);
+		fireButton.setOnMouseExited(event -> 
+		{
+			
+			
+		});
 
 	    
 		Button emsButton = new Button("EMS Event");
@@ -48,6 +54,20 @@ public class EventHub
 		emsButton.setOnMouseEntered(event -> emsButton.setStyle("-fx-background-color: #232669;"));
 		emsButton.setOnMouseExited(event -> emsButton.setStyle("-fx-background-color: #1a1b40;"));
 		emsButton.setTextFill(Color.WHITE);
+		emsButton.setOnMouseClicked(event -> 
+		{
+			try 
+			{
+				EMSEvent.emsEventInitalizer( enteredUsername,  userSecurityLevel,  mainArea,  navBar,  root,  scene);
+			} 
+			catch (SQLException e) 
+			{
+				System.out.println("Failed to load EMS users");
+				e.printStackTrace();
+			}
+			
+		});
+		
 	    
 		Button trainingButton = new Button ("Training Event");
 		trainingButton.setStyle("-fx-background-color: #9e9c08;");

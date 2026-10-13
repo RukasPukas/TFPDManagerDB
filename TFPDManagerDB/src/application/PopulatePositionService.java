@@ -21,7 +21,7 @@ public class PopulatePositionService
 		        );
 		}
 		
-		if(userSecurityLevel == 4)
+		if(userSecurityLevel == 4 || userSecurityLevel == 6)
 		{
 			
 			positionOptions = FXCollections.observableArrayList
@@ -34,7 +34,7 @@ public class PopulatePositionService
 
 		        );
 		}
-		if(userSecurityLevel == 5)
+		if(userSecurityLevel == 7)
 		{
 			
 			positionOptions = FXCollections.observableArrayList
@@ -48,7 +48,7 @@ public class PopulatePositionService
 		                "Full-Time Captain"
 		        );
 		}
-		if(userSecurityLevel == 6)
+		if(userSecurityLevel == 8)
 		{
 			
 			positionOptions = FXCollections.observableArrayList
@@ -63,7 +63,7 @@ public class PopulatePositionService
 		                "Assistant Chief"
 		        );
 		}
-			if(userSecurityLevel == 7)
+			if(userSecurityLevel == 9)
 			{
 				
 				positionOptions = FXCollections.observableArrayList
@@ -79,7 +79,7 @@ public class PopulatePositionService
 		                "Deputy Chief"
 			        );
 		}
-			if(userSecurityLevel > 7)
+			if(userSecurityLevel > 9)
 			{
 				positionOptions = FXCollections.observableArrayList
 				(

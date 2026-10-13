@@ -1728,3 +1728,996 @@
 {"logTime": "1008/184510", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
 {"logTime": "1008/184510", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
 {"logTime": "1008/184510", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436039480971836\", source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436039480972329\", source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"683e437d-51c0-4773-9bcf-34c9ae32ae93\", source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1009/171120", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=in_product_help.session_start_time, new_value=\"13436039481009209\", source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=in_product_help.session_number, new_value=30, source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436039481009209\", source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=in_product_help.recent_session_start_times, new_value=[object], source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.site_engagement, new_value=[object], source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=profile.last_engagement_time, new_value=\"13436010681099222\", source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1009/171121", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1009/171130", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1009/171130", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1009/171536", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1009/171536", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1009/171536", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1009/171546", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1009/173241", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1009/173241", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436381496289852\", source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436381496290354\", source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"bdcd7603-e98d-48c3-b5e4-dd001e009b23\", source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=in_product_help.session_start_time, new_value=\"13436381496338577\", source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=in_product_help.session_number, new_value=31, source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436381496338577\", source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=in_product_help.recent_session_start_times, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.site_engagement, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=profile.last_engagement_time, new_value=\"13436352696417135\", source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/161136", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/161146", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/161146", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/161146", "level": "INFO", "message": "Preference changed: name=edge.bookmarks.last_dup_info_record_time, new_value=\"13436381506299838\", source=unknown"}
+{"logTime": "1013/161156", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/161206", "level": "INFO", "message": "Preference changed: name=profile.last_time_password_store_metrics_reported, new_value=1791907926.280935, source=unknown"}
+{"logTime": "1013/161206", "level": "INFO", "message": "Preference changed: name=edge_wallet.passwords.password_lost_report_date, new_value=\"13436381526281352\", source=unknown"}
+{"logTime": "1013/161216", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/161236", "level": "INFO", "message": "Preference changed: name=password_manager.account_store_backup_password_cleaning_last_timestamp, new_value=\"13436381556266562\", source=unknown"}
+{"logTime": "1013/161236", "level": "INFO", "message": "Preference changed: name=password_manager.profile_store_backup_password_cleaning_last_timestamp, new_value=\"13436381556266670\", source=unknown"}
+{"logTime": "1013/161246", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/161247", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/161259", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/161259", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/161259", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436381603525518\", source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436381603526156\", source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"ca242629-52e6-4c7f-8857-dcd052889c72\", source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436381603559915\", source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/161323", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/161333", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/161333", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162028", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/162028", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/162029", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382034789431\", source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382034789893\", source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"7f253101-8db8-45ab-b2d1-eb5983472a2d\", source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436382034824875\", source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/162034", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/162044", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162044", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162520", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/162520", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/162520", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382390561705\", source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382390562253\", source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"0d9459e3-6834-47d7-ab36-35e82360359a\", source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436382390599151\", source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/162630", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/162640", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162640", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162736", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/162736", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/162736", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/162746", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162903", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/162903", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/162903", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/162908", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/162908", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/162908", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/162913", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162918", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/162918", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/162918", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/162928", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/162957", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/162957", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/162957", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/163001", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/163001", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382969779196\", source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382969779886\", source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"e6e264d0-312e-4353-834c-288a27a3ce34\", source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436382969817693\", source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/163609", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/163612", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/163612", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/163612", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382987139103\", source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436382987139662\", source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"c443c89d-b38e-479f-9496-81e6063f4ba3\", source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436382987176647\", source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/163627", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/163637", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/163637", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/163935", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/163935", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/163935", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436383418743258\", source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436383418743742\", source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"9b835a85-7935-4fcd-8ce6-87948069a41d\", source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436383418774219\", source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/164338", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/164347", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/164347", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/164347", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436383430159214\", source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436383430159714\", source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"073c009c-6c1a-48d3-9045-dc2871a5de2c\", source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436383430188554\", source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/164350", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/164400", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/164400", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/164726", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/164726", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/164726", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436383652714696\", source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436383652715177\", source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"5a508acf-444c-4dba-83d5-bf789c3662bd\", source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436383652743144\", source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/164732", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/164742", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/164742", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/165620", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/165630", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/170309", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/170309", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436384631725932\", source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436384631726425\", source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"109a685d-da66-4581-8ce1-1fa2ab4ab6c7\", source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436384631763866\", source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/170351", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/170401", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/170401", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/170602", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/170602", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/170602", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436384921235276\", source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436384921235771\", source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"f8721255-e0b1-404c-884c-38c05d3eb847\", source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436384921268593\", source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/170841", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/170851", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/170851", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/171009", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/171153", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.site_engagement, new_value=[object], source=unknown"}
+{"logTime": "1013/171153", "level": "INFO", "message": "Preference changed: name=profile.last_engagement_time, new_value=\"13436356313111685\", source=unknown"}
+{"logTime": "1013/171551", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/171551", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/171551", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385713949359\", source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385713949993\", source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"fde2d4d0-2f47-452c-9764-a124ffa068c8\", source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436385713981327\", source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172153", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/172154", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172154", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172203", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/172203", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/172204", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/172204", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/172204", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385878659675\", source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385878660145\", source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"51d6a4de-3a69-4626-bc6b-0d6e9e439228\", source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436385878688154\", source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172438", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172445", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/172445", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/172445", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385937710916\", source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385937711365\", source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"71e234e7-15a2-4b20-9549-6aac20fd40d4\", source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436385937741427\", source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172537", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172547", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/172547", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436385962723089\", source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385962741917\", source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436385962742529\", source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"ad1b1103-580b-4f2c-9746-abb4c3f702b2\", source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172602", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/172612", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/172612", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/172714", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/172724", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/172733", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/175903", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/175903", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436387957172181\", source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436387957172802\", source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"378771ee-ffcd-4309-9650-a0e40d727051\", source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436387957211188\", source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/175917", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "UserPrefStore loaded: error=FILE_LOCKED (5)"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_vpn.enabled_globally, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_vpn.available, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile_network_context_service.http_cache_finch_experiment_groups, new_value=\"None None None None\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=enterprise_profile_guid, new_value=\"44982170-044c-47aa-960b-674af7eb54be\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extensions.last_chrome_version, new_value=\"154.0.4258.62\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=gaia_cookie.periodic_report_time_2, new_value=\"13436387961408398\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=user_experience_metrics.personalization_data_consent_enabled_last_known_value, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.background_password_check, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=countryid_at_install, new_value=21843, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=reset_prepopulated_engines, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=browser.recent_theme_color_list, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=browser.color_theme_user_on_first_check, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=saved_tab_groups.did_enable_shared_tab_groups_in_last_session, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=safety_hub.unused_site_permissions_revocation.migration_completed, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.creation_time, new_value=\"13430780091766687\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.edge_profile_id, new_value=\"18d43ce9-fefe-49ed-b8a2-b943ba73d858\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extensions.alerts.initialized, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extensions.pdf_upsell_triggered, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extension.installed_extension_count, new_value=2, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=credentials_enable_service, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=webrtc.udp_port_range, new_value=\"0-0\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=browser.show_downloads_hub_pinned, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=browser.show_toolbar_edge_generic_sidebar_button, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=in_product_help.session_start_time, new_value=\"13436387961431406\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=in_product_help.session_number, new_value=2, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436387961431406\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=in_product_help.recent_session_enabled_time, new_value=\"13436387961431406\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=in_product_help.recent_session_start_times, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=media.engagement.schema_version, new_value=5, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=intl.selected_languages, new_value=\"en-US,en\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_ux_config.assignmentcontext, new_value=\"\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_ux_config.dataversion, new_value=\"0\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_ux_config.experimentvariables, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=browser.user_level_features_context, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_ux_config.flights, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436387961453335\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436387961454175\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=muid.last_sync, new_value=\"13436387961454902\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=personalization_data_consent.personalization_in_context_count, new_value=0, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=personalization_data_consent.personalization_in_context_consent_can_prompt, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"de05d10f-d357-4e4a-8bd0-135379f24162\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=account_tracker_service_last_update, new_value=\"13436387961455050\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=bookmark.storage_computation_last_update, new_value=\"13436387961455211\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=commerce_daily_metrics_last_update_time, new_value=\"13436387961455979\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extensions.pinned_extensions, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=extensions.pinned_extension_migration, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=autofill.last_version_deduped, new_value=154, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=autofill.edge_autofill_purge_low_quality_profiles_by_timeline, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=autocomplete.retention_policy_last_version, new_value=154, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.edge_user_with_non_zero_passwords, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.edge_password_is_using_new_login_db_path, new_value=false, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.edge_password_login_db_path_flip_flop_count, new_value=0, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=saved_tab_groups.specifics_to_data_migration, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=muid.values_seen, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=aadc_info.age_group, new_value=0, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=browser.theme.color_scheme2, new_value=2, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=typosquatting.allowlist_migration_done, new_value=true, source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=optimization_guide.hintsfetcher.hosts_successfully_fetched, new_value=[object], source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_rewards.cache_data, new_value=\"CAA=\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_rewards.refresh_status_muted_until, new_value=\"13436992761504760\", source=unknown"}
+{"logTime": "1013/175921", "level": "INFO", "message": "[READONLY] Preference changed: name=fsd.retention_policy_last_version, new_value=154, source=unknown"}
+{"logTime": "1013/175926", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.is_relative_to_aad, new_value=true, source=unknown"}
+{"logTime": "1013/175931", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/175931", "level": "INFO", "message": "[READONLY] Preference changed: name=edge.bookmarks.last_dup_info_record_time, new_value=\"13436387971460358\", source=unknown"}
+{"logTime": "1013/175951", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.last_time_password_store_metrics_reported, new_value=1791914391.413219, source=unknown"}
+{"logTime": "1013/175951", "level": "INFO", "message": "[READONLY] Preference changed: name=edge_wallet.passwords.password_lost_report_date, new_value=\"13436387991413458\", source=unknown"}
+{"logTime": "1013/175951", "level": "INFO", "message": "[READONLY] Preference changed: name=total_passwords_available_for_account, new_value=0, source=unknown"}
+{"logTime": "1013/175951", "level": "INFO", "message": "[READONLY] Preference changed: name=total_passwords_available_for_profile, new_value=0, source=unknown"}
+{"logTime": "1013/180021", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.last_time_obsolete_http_credentials_removed, new_value=1791914421.421311, source=unknown"}
+{"logTime": "1013/180021", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.were_old_google_logins_removed, new_value=true, source=unknown"}
+{"logTime": "1013/180021", "level": "INFO", "message": "[READONLY] Preference changed: name=password_manager.account_store_migrated_to_os_crypt_async, new_value=true, source=unknown"}
+{"logTime": "1013/180021", "level": "INFO", "message": "[READONLY] Preference changed: name=password_manager.account_store_backup_password_cleaning_last_timestamp, new_value=\"13436388021421803\", source=unknown"}
+{"logTime": "1013/180021", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.last_time_obsolete_http_credentials_removed, new_value=1791914421.421932, source=unknown"}
+{"logTime": "1013/180021", "level": "INFO", "message": "[READONLY] Preference changed: name=password_manager.profile_store_migrated_to_os_crypt_async, new_value=true, source=unknown"}
+{"logTime": "1013/180021", "level": "INFO", "message": "[READONLY] Preference changed: name=password_manager.profile_store_backup_password_cleaning_last_timestamp, new_value=\"13436388021422357\", source=unknown"}
+{"logTime": "1013/180115", "level": "INFO", "message": "[READONLY] Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/180115", "level": "INFO", "message": "[READONLY] Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/180115", "level": "INFO", "message": "[READONLY] Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/180115", "level": "INFO", "message": "[READONLY] Preference changed: name=profile.exit_type, new_value=\"Normal\", source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436388087078114\", source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436388087078591\", source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"6dbd14da-00e1-4abc-877c-c495ac530fd8\", source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436388087118959\", source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/180127", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/180137", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/180137", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/180205", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/180205", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/180205", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436388126862364\", source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436388126862817\", source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"c63ef8fe-b431-4b73-8867-b00d9dcc6564\", source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436388126900403\", source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180206", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/180207", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/180207", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/180212", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/180212", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/180212", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436388354777454\", source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436388354778164\", source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"c35dcb2e-3475-4338-8d23-2c0e8c17b6d8\", source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436388354829478\", source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/180554", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/180555", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/180555", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/180604", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/180604", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/181519", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.site_engagement, new_value=[object], source=unknown"}
+{"logTime": "1013/181519", "level": "INFO", "message": "Preference changed: name=profile.last_engagement_time, new_value=\"13436360119867974\", source=unknown"}
+{"logTime": "1013/183149", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/183149", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/183149", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390103136478\", source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390103137046\", source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"f2620713-465a-4d4d-8ff9-1ad12aa7430a\", source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436390103175753\", source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183503", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183513", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183513", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183534", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/183534", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/183534", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390163447753\", source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390163448289\", source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"cd01b8da-0d9a-4a72-873a-0b69da6840e4\", source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436390163483886\", source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183603", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183613", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183613", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183655", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/183655", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/183655", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390236307544\", source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390236308061\", source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"ca0c98dc-c0fa-4348-bd36-84258f6567d1\", source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436390236344440\", source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183716", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183726", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183726", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183801", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/183801", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/183801", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390330360302\", source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390330360755\", source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"dd40394c-5770-449e-8dd8-d1d436ad26d8\", source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436390330393059\", source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183850", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/183900", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183900", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/183950", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/183950", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/183950", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/184000", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/184209", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/184218", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/184218", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390583094056\", source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390583094688\", source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"d8764454-5810-4601-b6b1-8a656511813a\", source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436390583136479\", source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/184303", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/184313", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/184313", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/184432", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/184659", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/184709", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/184724", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "UserPrefStore loaded: error=NONE (0)"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=1, source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=profile.password_hash_data_list, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=autofill.credit_card_enabled, new_value=false, source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=enable_edge_collections, new_value=false, source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=resolve_navigation_errors_use_web_service.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=alternate_error_pages.enabled, new_value=false, source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=in_product_help.session_last_active_time, new_value=\"13436390922645842\", source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.storage_access_header_origin_trial, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=profile.network_pbs, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390922664705\", source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=schedule_to_flush_to_disk, new_value=\"13436390922665394\", source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=edge.services.signin_scoped_device_id, new_value=\"feada2b1-1ea4-4d07-9ffd-fa338690e04f\", source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=extensions.chrome_url_overrides, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=optimization_guide.previously_registered_optimization_types, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=edge_rewards.coachmark_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/184842", "level": "INFO", "message": "Preference changed: name=edge_rewards.hva_promotions, new_value=[object], source=unknown"}
+{"logTime": "1013/184852", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/184852", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/184902", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/184902", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/184902", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/184912", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/185236", "level": "INFO", "message": "Preference changed: name=sessions.event_log, new_value=[object], source=unknown"}
+{"logTime": "1013/185246", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/192733", "level": "INFO", "message": "Preference changed: name=profile.content_settings.exceptions.site_engagement, new_value=[object], source=unknown"}
+{"logTime": "1013/192733", "level": "INFO", "message": "Preference changed: name=profile.last_engagement_time, new_value=\"13436364453501766\", source=unknown"}
+{"logTime": "1013/192810", "level": "INFO", "message": "Preference changed: name=language_dwell_time_average, new_value=[object], source=unknown"}
+{"logTime": "1013/192810", "level": "INFO", "message": "Preference changed: name=language_usage_count, new_value=[object], source=unknown"}
+{"logTime": "1013/192810", "level": "INFO", "message": "Preference changed: name=language_model_counters, new_value=[object], source=unknown"}
+{"logTime": "1013/192820", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/193201", "level": "INFO", "message": "Preference changed: name=profile.observed_session_time, new_value=[object], source=unknown"}
+{"logTime": "1013/193211", "level": "INFO", "message": "PrefStore write completed: store=4, success=true"}
+{"logTime": "1013/200234", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=2, source=unknown"}
+{"logTime": "1013/200234", "level": "INFO", "message": "Preference changed: name=sessions.session_data_status, new_value=3, source=unknown"}

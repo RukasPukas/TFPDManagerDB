@@ -1,0 +1,116 @@
+package events;
+
+import java.time.LocalDate;
+
+import javafx.application.Platform;
+import javafx.geometry.Insets;
+import javafx.scene.control.DatePicker;
+import javafx.scene.control.TextArea;
+import javafx.scene.control.TextField;
+import javafx.scene.control.TextFormatter;
+import javafx.scene.layout.GridPane;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+import universal.Styling;
+import javafx.scene.layout.RowConstraints;
+
+public class DispatchInformationSection 
+{
+	public static GridPane DispatchInformationSection()
+	{
+		GridPane dispatchSection = new GridPane();
+		
+		
+		//------------------------------------------------------row 1 -----------------------------------------
+
+        Text runNumberLabel = new Text("Run Number:");
+        runNumberLabel.setFill(Styling.logoGradient());
+        runNumberLabel.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(runNumberLabel, new Insets(0, 15, 50, 0));
+        
+        
+        String getYear = String.valueOf(LocalDate.now().getYear());
+        TextField runYearTF = new TextField(getYear);
+        runYearTF.setPromptText("Year");
+        runYearTF.setPrefWidth(50);
+        runYearTF.setFont(Font.font("Menlo",FontWeight.BOLD,14));
+        GridPane.setMargin(runYearTF, new Insets(0, 25, 0, 0));
+        runYearTF.setTextFormatter(new TextFormatter<String>(change ->
+        {
+            if (change.getControlNewText().matches("[0-9]*"))
+            {
+                return change;
+            }
+
+            return null;
+        }));
+        
+        Text dashLabel = new Text("-");
+        dashLabel.setFill(Styling.logoGradient());
+        dashLabel.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(dashLabel, new Insets(0,25,0,0));
+
+        TextField runNumberTF = new TextField();
+        runNumberTF.setPromptText("Run Number");
+        GridPane.setMargin(runNumberTF, new Insets(0, 25, 0, 0));
+        runNumberTF.setFont(Font.font("Menlo",FontWeight.BOLD,14));
+        runNumberTF.setTextFormatter(new TextFormatter<String>(change ->
+        {
+            if (change.getControlNewText().matches("[0-9]*"))
+            {
+                return change;
+            }
+
+            return null;
+        }));
+
+       
+        
+        Text noLeadingPrompt = new Text("(No leading 0s, only the run number itself.)");
+        noLeadingPrompt.setFill(Styling.logoGradient());
+        noLeadingPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,12));
+        GridPane.setMargin(noLeadingPrompt, new Insets(0,25,0,0));
+
+        
+        // column -> Row
+        dispatchSection.add(runNumberLabel, 0, 0);
+        dispatchSection.add(runYearTF, 1, 0);
+        dispatchSection.add(dashLabel, 2, 0);
+        dispatchSection.add(runNumberTF, 3, 0);
+        dispatchSection.add(noLeadingPrompt, 4, 0);
+        
+        Platform.runLater(() -> runNumberTF.requestFocus());
+        
+        
+
+        //-----------------------------------------------end row 1 -----------------------------------------------------
+        
+        //-----------------------------------------------Row 2----------------------------------------------------------
+        Text datePickerLabel = new Text("Select Date of run:");
+        datePickerLabel.setFill(Styling.logoGradient());
+        datePickerLabel.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(datePickerLabel, new Insets(0, 15, 50, 0));
+        
+        DatePicker eventDatePicker = new DatePicker();
+        
+       
+        
+        eventDatePicker.setOnAction(event ->
+        {LocalDate selectedDate = eventDatePicker.getValue();}); 
+
+
+
+    
+        
+        
+		// column -> Row
+        dispatchSection.add(datePickerLabel, 0, 1);
+        dispatchSection.add(eventDatePicker, 1, 1);
+        dispatchSection.add(dateTF, 2, 1);
+
+
+		return dispatchSection;
+	}
+
+}

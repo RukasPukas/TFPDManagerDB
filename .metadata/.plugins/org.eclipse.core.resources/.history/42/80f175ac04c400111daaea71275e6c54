@@ -1,0 +1,9 @@
+package events;
+
+public class EMSEvent 
+{
+	public static void emsEventInitalizer()
+	{
+		
+	}
+}

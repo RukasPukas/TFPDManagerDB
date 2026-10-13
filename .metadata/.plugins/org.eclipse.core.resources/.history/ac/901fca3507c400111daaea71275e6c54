@@ -1,0 +1,68 @@
+package events;
+
+import application.UserOptionsHub;
+import javafx.geometry.Insets;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.layout.GridPane;
+import javafx.scene.layout.VBox;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+import universal.Styling;
+
+public class EMSEvent 
+{
+	public static void emsEventInitalizer(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene)
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+		
+		Text emsHeaderText = new Text("Add EMS Event");
+		Styling.logoGradient();
+		emsHeaderText.setFill(Styling.logoGradient());
+		emsHeaderText.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		mainArea.getChildren().add(emsHeaderText);
+
+		DispatchInformationSection();
+		
+
+	}
+	
+	public static GridPane DispatchInformationSection()
+			{
+				GridPane dispatchSection = new GridPane();
+			    dispatchSection.setHgap(25);
+			    dispatchSection.setVgap(20);
+			    dispatchSection.setPadding(new Insets(20));
+
+			    Text runNumberLabel = new Text("Run Number:");
+			    Text runYearLabel = new Text("Run Year:");
+			    Text addressLabel = new Text("Address:");
+			    Text dispatchTimeLabel = new Text("Dispatch Time:");
+
+			    TextArea runYearTA = new TextArea();
+			    TextArea runNumberTA = new TextArea();
+			    TextArea addressTA = new TextArea();
+			    TextArea dispatchTimeTA = new TextArea();
+
+			    // Row 0
+			    dispatchSection.add(runNumberLabel, 0, 0);
+			    dispatchSection.add(runYearTA, 1, 0);
+			    dispatchSection.add(runNumberTA, 2, 0);
+
+			    // Row 1
+			    dispatchSection.add(addressLabel, 0, 1);
+			    dispatchSection.add(addressTA, 1, 1, 2, 1);
+
+			    // Row 2
+			    dispatchSection.add(dispatchTimeLabel, 0, 2);
+			    dispatchSection.add(dispatchTimeTA, 1, 2);
+
+			    return dispatchSection;
+
+				return dispatchSection;
+			}
+	
+	
+}

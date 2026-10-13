@@ -31,18 +31,19 @@ public class CreateNewUserService {
         // Convert position into database security level
         int securityLevelConversion = 0;
 
+
+        if (newSecurityLevel.equals("POC-Fire")) {securityLevelConversion = 0;}
         if (newSecurityLevel.equals("Part-Time EMS")) {securityLevelConversion = 1;}
-        if (newSecurityLevel.equals("POC-Fire")) {securityLevelConversion = 1;}
-        if (newSecurityLevel.equals("POC-Fire Lieutenant")) {securityLevelConversion = 3;}
         if (newSecurityLevel.equals("Full-Time")) {securityLevelConversion = 2;}
-        if (newSecurityLevel.equals("Full-Time Lieutenant")) {securityLevelConversion = 3;}
-        if (newSecurityLevel.equals("POC-Fire Captain")) {securityLevelConversion = 3;}
-        if (newSecurityLevel.equals("Full-Time Captain")) {securityLevelConversion = 4;}
-        if (newSecurityLevel.equals("Assistant Chief")) {securityLevelConversion = 5;}
-        if (newSecurityLevel.equals("Deputy Chief")) {securityLevelConversion = 6;}
-        if (newSecurityLevel.equals("Chief")) {securityLevelConversion = 7;}
+        if (newSecurityLevel.equals("POC-Fire Lieutenant")) {securityLevelConversion = 3;}
+        if (newSecurityLevel.equals("POC-Fire Captain")) {securityLevelConversion = 4;}
+        if (newSecurityLevel.equals("Full-Time Lieutenant")) {securityLevelConversion = 5;}
+        if (newSecurityLevel.equals("Full-Time Captain")) {securityLevelConversion = 6;}
+        if (newSecurityLevel.equals("Assistant Chief")) {securityLevelConversion = 7;}
+        if (newSecurityLevel.equals("Deputy Chief")) {securityLevelConversion = 8;}
+        if (newSecurityLevel.equals("Chief")) {securityLevelConversion = 9;}
        
-        if (securityLevelConversion == 0)
+        if (securityLevelConversion < 0)
         {
             throw new IllegalArgumentException("Invalid security level: " + newSecurityLevel +" was attempted to have been entered.");
         }
