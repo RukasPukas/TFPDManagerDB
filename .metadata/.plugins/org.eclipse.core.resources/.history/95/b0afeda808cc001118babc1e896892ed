@@ -1,0 +1,44 @@
+package events;
+
+import javafx.scene.Cursor;
+import javafx.scene.control.Button;
+import javafx.scene.layout.VBox;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+
+public class RetrieveEMSRunInformation 
+
+{
+	public static VBox emsRunSubmitButtonGUI ()
+	{
+		VBox emsSubmitVBox = new VBox();
+		
+		Button emsSubmitButton = new Button("Submit");
+		
+		
+		for (javafx.scene.Node node : emsSubmitVBox.getChildren()) 
+		{
+			
+		    if (node instanceof Button button) 
+		    {
+		        button.setPrefHeight(50);
+		        button.setPrefWidth(300);
+		        button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
+		        button.setStyle("-fx-background-color: #ebeced;");
+		        button.setMaxWidth(300);
+		        button.setMaxHeight(50);
+		        button.setOnMouseEntered(event -> {button.setStyle("-fx-background-color: #fafdff");});
+		        button.setOnMouseExited(event -> {button.setStyle("-fx-background-color: #ebeced;");});
+		        button.setOnMousePressed(event -> {button.setStyle("-fx-background-color: #4f7e9e;");});
+		        button.setOnMouseReleased(event ->{button.setStyle("-fx-background-color:  #fafdff;");});
+		        button.setCursor(Cursor.HAND);
+	    	}
+		    
+		}
+		
+		emsSubmitVBox.add(emsSubmitButton);
+		
+		
+		return emsSubmitVBox;
+	}
+}

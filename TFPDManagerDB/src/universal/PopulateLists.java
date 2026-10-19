@@ -43,5 +43,168 @@ public class PopulateLists
 
 	    return selectableDestinations;
 	}
+	
+	
+	public static ObservableList<String> populateEMSMAService() throws SQLException
+	{
+	    ObservableList<String> selectableEMSMA =  FXCollections.observableArrayList();
+
+
+		    
+	        String emsMASQL = """
+	                SELECT emsMADepartments
+	                FROM emsma
+	                WHERE emsMADepartments IS NOT NULL
+	                ORDER BY emsMADepartments ASC
+	                """;
+
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(emsMASQL)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	selectableEMSMA.add(results.getString("emsMADepartments"));
+	                }
+	            }
+	        }
+
+	    return selectableEMSMA;
+	}
+	
+	
+	public static ObservableList<String> emsUsers() throws SQLException
+	{
+	    ObservableList<String> selectableEMSUsers =  FXCollections.observableArrayList();
+
+
+		    
+	        String findUserSql = """
+	                SELECT userName
+	                FROM users
+	                WHERE userSecurityLevel IN (1, 2, 5, 6, 7, 8, 9)
+	                ORDER BY SUBSTRING(userName, 2) ASC
+	                """;
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(findUserSql)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	selectableEMSUsers.add(results.getString("userName"));
+	                }
+	            }
+	        }
+
+	    return selectableEMSUsers;
+
+	}
+	
+	
+	public static ObservableList<String> allPersonell() throws SQLException
+	{
+	    ObservableList<String> allPersonellAvailable =  FXCollections.observableArrayList();
+
+
+		    
+	        String findUserSql = """
+	                SELECT userName
+	                FROM users
+	                WHERE userSecurityLevel IN (1, 2, 3, 4, 5, 6, 7, 8, 9)
+	                ORDER BY SUBSTRING(userName, 2) ASC
+	                """;
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(findUserSql)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	allPersonellAvailable.add(results.getString("userName"));
+	                }
+	            }
+	        }
+
+	    return allPersonellAvailable;
+
+	}
+	
+	public static ObservableList<String> policeDepartmentsService() throws SQLException
+	{
+	    ObservableList<String> selectablePDs =  FXCollections.observableArrayList();
+
+
+		    
+	        String pDepartmentsSQL = """
+	                SELECT departmentName
+	                FROM policedepartments
+	                WHERE departmentName IS NOT NULL
+	                ORDER BY departmentName ASC
+	                """;
+
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(pDepartmentsSQL)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	selectablePDs.add(results.getString("departmentName"));
+	                }
+	            }
+	        }
+
+	    return selectablePDs;
+	}
+	
+	public static ObservableList<String> selectDispositionsService() throws SQLException
+	{
+	    ObservableList<String> selectableDispositions =  FXCollections.observableArrayList();
+
+
+		    
+	        String dispositionTypesSQL = """
+	                SELECT dispositionType
+	                FROM dispositions
+	                WHERE dispositionType IS NOT NULL
+	                ORDER BY dispositionType ASC
+	                """;
+
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(dispositionTypesSQL)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	selectableDispositions.add(results.getString("dispositionType"));
+	                }
+	            }
+	        }
+
+	    return selectableDispositions;
+	}
 
 }

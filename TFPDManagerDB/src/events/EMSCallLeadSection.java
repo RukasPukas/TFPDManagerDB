@@ -29,6 +29,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
+import universal.PopulateLists;
 import universal.Styling;
 
 public class EMSCallLeadSection {
@@ -42,7 +43,7 @@ public class EMSCallLeadSection {
         emsCallLeadPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,18));
         GridPane.setMargin(emsCallLeadPrompt, new Insets(0, 15, 50, 0));
         
-		ObservableList<String> selectableUsers = emsUsers();
+		ObservableList<String> selectableUsers = PopulateLists.emsUsers();
 		ComboBox<String> userComboBox = new ComboBox<>(selectableUsers);
 		userComboBox.getSelectionModel().clearSelection();
 		userComboBox.setPromptText("Select Call Lead:");
@@ -58,7 +59,7 @@ public class EMSCallLeadSection {
         
         
         ObservableList<String> allPersonell =
-                FXCollections.observableArrayList(allPersonell());
+                FXCollections.observableArrayList(PopulateLists.allPersonell());
         
 
         ListView<String> allPersonellList =new ListView<>(allPersonell);
@@ -123,12 +124,11 @@ public class EMSCallLeadSection {
 		mutualAidCB.setSelected(false);
 
 
-		
-		ObservableList<String> testString = null;
-		ComboBox<String> mutualAidComboBox = new ComboBox<>(testString);
+    	ObservableList<String> selectableEMSMA = PopulateLists.populateEMSMAService();
+		ComboBox<String> mutualAidComboBox = new ComboBox<>(selectableEMSMA);
 		mutualAidComboBox.getSelectionModel().clearSelection();
 		mutualAidComboBox.setPromptText("Select Mutual Aid Department:");
-		mutualAidComboBox.setMaxWidth(300);
+		mutualAidComboBox.setPrefWidth(300);
 		mutualAidComboBox.setCursor(Cursor.HAND);
         GridPane.setMargin(mutualAidComboBox, new Insets(0, 0, 0, 0));
         mutualAidComboBox.setStyle("-fx-font-family: 'Menlo';" +"-fx-font-weight: bold;" +"-fx-font-size: 14px;");
@@ -144,7 +144,8 @@ public class EMSCallLeadSection {
 		pdCB.setSelected(false);
 		
 		
-		ComboBox<String> pdComboBox = new ComboBox<>(testString);
+    	ObservableList<String> selectablePDs = PopulateLists.policeDepartmentsService();
+		ComboBox<String> pdComboBox = new ComboBox<>(selectablePDs);
 		pdComboBox.getSelectionModel().clearSelection();
 		pdComboBox.setPromptText("Department:");
 		pdComboBox.setMaxWidth(300);
@@ -174,69 +175,9 @@ public class EMSCallLeadSection {
 	}
 	
 	
-	public static ObservableList<String> emsUsers() throws SQLException
-	{
-	    ObservableList<String> selectableEMSUsers =  FXCollections.observableArrayList();
 
-
-		    
-	        String findUserSql = """
-	                SELECT userName
-	                FROM users
-	                WHERE userSecurityLevel IN (1, 2, 5, 6, 7, 8, 9)
-	                ORDER BY SUBSTRING(userName, 2) ASC
-	                """;
-	        
-	        try (Connection connection = DatabaseConnection.getConnection(); 
-	        		PreparedStatement checkStatement = connection.prepareStatement(findUserSql)) 
-	        {
-
-
-	            
-	            try (ResultSet results = checkStatement.executeQuery())
-	            {
-	                while (results.next())
-	                {
-	                	selectableEMSUsers.add(results.getString("userName"));
-	                }
-	            }
-	        }
-
-	    return selectableEMSUsers;
-
-	}
 	
-	public static ObservableList<String> allPersonell() throws SQLException
-	{
-	    ObservableList<String> allPersonellAvailable =  FXCollections.observableArrayList();
 
-
-		    
-	        String findUserSql = """
-	                SELECT userName
-	                FROM users
-	                WHERE userSecurityLevel IN (1, 2, 3, 4, 5, 6, 7, 8, 9)
-	                ORDER BY SUBSTRING(userName, 2) ASC
-	                """;
-	        
-	        try (Connection connection = DatabaseConnection.getConnection(); 
-	        		PreparedStatement checkStatement = connection.prepareStatement(findUserSql)) 
-	        {
-
-
-	            
-	            try (ResultSet results = checkStatement.executeQuery())
-	            {
-	                while (results.next())
-	                {
-	                	allPersonellAvailable.add(results.getString("userName"));
-	                }
-	            }
-	        }
-
-	    return allPersonellAvailable;
-
-	}
 	
 
 }

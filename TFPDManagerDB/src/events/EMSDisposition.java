@@ -27,8 +27,9 @@ public class EMSDisposition
         dispositionPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,18));
         GridPane.setMargin(dispositionPrompt, new Insets(0, 15, 50, 0));
      
-        
-		ComboBox<String> dispositionComboBox = new ComboBox<>();
+
+    	ObservableList<String> selectableDispositions = PopulateLists.selectDispositionsService();
+		ComboBox<String> dispositionComboBox = new ComboBox<>(selectableDispositions);
 		dispositionComboBox.getSelectionModel().clearSelection();
 		dispositionComboBox.setPromptText("Disposition:");
 		dispositionComboBox.setPrefWidth(225);
@@ -36,11 +37,29 @@ public class EMSDisposition
         GridPane.setMargin(dispositionComboBox, new Insets(0, 0, 0, 0));
         dispositionComboBox.setStyle("-fx-font-family: 'Menlo';" +"-fx-font-weight: bold;" +"-fx-font-size: 14px;");
 
+
+    	
+        Text destinationPrompt = new Text("Destination:");
+        destinationPrompt.setFill(Styling.logoGradient());
+        destinationPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(destinationPrompt, new Insets(0, 15, 50, 25));
+        
+
     	ObservableList<String> selectableDestinations = PopulateLists.selectableDestinationsService();
+		ComboBox<String> destinationComboBox = new ComboBox<>(selectableDestinations);
+		destinationComboBox.getSelectionModel().clearSelection();
+		destinationComboBox.setPromptText("Destination:");
+		destinationComboBox.setPrefWidth(300);
+		destinationComboBox.setCursor(Cursor.HAND);
+        GridPane.setMargin(destinationComboBox, new Insets(0, 0, 0, 150));
+        destinationComboBox.setStyle("-fx-font-family: 'Menlo';" +"-fx-font-weight: bold;" +"-fx-font-size: 14px;");
+        destinationComboBox.disableProperty().bind(dispositionComboBox.valueProperty().isNotEqualTo("Treat/Transport"));
 		
         
         EMSDispositionGP.add(dispositionPrompt, 0, 0);
         EMSDispositionGP.add(dispositionComboBox, 1, 0);
+        EMSDispositionGP.add(destinationPrompt, 2, 0);
+        EMSDispositionGP.add(destinationComboBox, 2, 0);
 		return EMSDispositionGP;
 		
 	}

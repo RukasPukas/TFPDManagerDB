@@ -42,7 +42,7 @@ public class EMSEvent
 		callInformationArea.getChildren().add(DispatchInformationSection.DispatchInformationSection());
 		callInformationArea.getChildren().add(EMSCallLeadSection.EMSCallLeadSection());
 		callInformationArea.getChildren().add(EMSDisposition.emsDispositionSection());
-		
+		callInformationArea.getChildren().add(RetrieveEMSRunInformation.emsRunSubmitButtonGUI());
 		
 	    ScrollPane callInformationScroll = new ScrollPane(callInformationArea);
 	    callInformationScroll.setFitToWidth(true);
