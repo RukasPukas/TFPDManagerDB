@@ -41,6 +41,7 @@ public class EMSEvent
 		callInformationArea.getChildren().add(emsHeaderText);
 		callInformationArea.getChildren().add(DispatchInformationSection.DispatchInformationSection());
 		callInformationArea.getChildren().add(EMSCallLeadSection.EMSCallLeadSection());
+		callInformationArea.getChildren().add(EMSDisposition.emsDispositionSection());
 		
 		
 	    ScrollPane callInformationScroll = new ScrollPane(callInformationArea);

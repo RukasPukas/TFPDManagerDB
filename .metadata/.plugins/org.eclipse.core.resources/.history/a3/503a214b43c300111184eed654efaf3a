@@ -1,9 +1,0 @@
-package universal;
-
-public class ClearMainScreen 
-{
-	public static void clearMainScreen()
-	{
-		
-	}
-}

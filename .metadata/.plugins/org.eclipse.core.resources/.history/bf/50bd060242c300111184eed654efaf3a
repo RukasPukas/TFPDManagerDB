@@ -1,9 +1,0 @@
-package events;
-
-public class EventGUI 
-{
-	public static void eventGuiInitializer()
-	{
-		
-	}
-}

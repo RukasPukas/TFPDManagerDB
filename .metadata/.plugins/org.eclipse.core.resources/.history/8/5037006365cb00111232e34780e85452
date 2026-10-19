@@ -1,0 +1,11 @@
+package events;
+
+import javafx.scene.layout.GridPane;
+
+public class EMSDisposition 
+{
+	public static GridPane emsDispositionSection()
+	{
+		
+	}
+}

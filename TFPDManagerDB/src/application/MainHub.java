@@ -3,7 +3,9 @@ package application;
 import javafx.scene.Cursor;
 import javafx.scene.Group;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
+import javafx.scene.control.Alert.AlertType;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.VBox;
@@ -217,10 +219,18 @@ public class MainHub
 		
 		 homeButton.setOnAction(event -> {
 			 System.out.println(enteredUsername +" pressed return to home button button.");
-				try {
+				try
+{
 					LandingPage.landingPage(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
-				} catch (SQLException e) {
-					// TODO Auto-generated catch block
+				} 
+				catch (SQLException e)
+				{
+					
+			    	Alert databaseUnreachable = new Alert(AlertType.INFORMATION);
+			    	databaseUnreachable.setTitle("Database was unable to be retrieved");
+			    	databaseUnreachable.setHeaderText("Error:");
+			    	databaseUnreachable.setContentText("Error accessing database, please contact IT support at LukiSoft.");
+			    	databaseUnreachable.showAndWait();
 					e.printStackTrace();
 				}
 		 });
