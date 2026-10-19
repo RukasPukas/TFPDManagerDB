@@ -12,4 +12,5 @@
     <fullyQualifiedTypeName name="events.EventHub"/>
     <fullyQualifiedTypeName name="universal.Styling"/>
     <fullyQualifiedTypeName name="javafx.scene.paint.Color"/>
+    <fullyQualifiedTypeName name="universal.PopulateLists"/>
 </qualifiedTypeNameHistroy>

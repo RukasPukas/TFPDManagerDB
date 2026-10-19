@@ -1,5 +1,7 @@
 package events;
 
+import java.sql.SQLException;
+
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.geometry.Insets;
@@ -10,11 +12,12 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
+import universal.PopulateLists;
 import universal.Styling;
 
 public class EMSDisposition 
 {
-	public static GridPane emsDispositionSection()
+	public static GridPane emsDispositionSection() throws SQLException
 	{
 		
 		GridPane EMSDispositionGP = new GridPane();
@@ -23,13 +26,7 @@ public class EMSDisposition
         dispositionPrompt.setFill(Styling.logoGradient());
         dispositionPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,18));
         GridPane.setMargin(dispositionPrompt, new Insets(0, 15, 50, 0));
-        
-		
-
-
-        
-
-        
+     
         
 		ComboBox<String> dispositionComboBox = new ComboBox<>();
 		dispositionComboBox.getSelectionModel().clearSelection();
@@ -39,7 +36,7 @@ public class EMSDisposition
         GridPane.setMargin(dispositionComboBox, new Insets(0, 0, 0, 0));
         dispositionComboBox.setStyle("-fx-font-family: 'Menlo';" +"-fx-font-weight: bold;" +"-fx-font-size: 14px;");
 
-		
+    	ObservableList<String> selectableDestinations = PopulateLists.selectableDestinationsService();
 		
         
         EMSDispositionGP.add(dispositionPrompt, 0, 0);
