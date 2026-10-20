@@ -1,0 +1,19 @@
+package events;
+
+import application.UserOptionsHub;
+import javafx.geometry.Insets;
+import javafx.scene.layout.VBox;
+
+public class FireEvent
+{
+	mainArea.getChildren().clear();
+	UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+	
+	
+	
+	//main VBox
+    VBox callInformationArea = new VBox();
+    callInformationArea.setSpacing(20);
+    callInformationArea.setPadding(new Insets(10));
+	
+}

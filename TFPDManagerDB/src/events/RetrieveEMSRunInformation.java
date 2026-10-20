@@ -10,39 +10,5 @@ import javafx.scene.text.FontWeight;
 public class RetrieveEMSRunInformation 
 
 {
-	public static VBox emsRunSubmitButtonGUI ()
-	{
-		VBox emsSubmitVBox = new VBox();
-		emsSubmitVBox.setAlignment(Pos.CENTER);
-		
-		Button emsSubmitButton = new Button("Submit");
-		
-		emsSubmitVBox.getChildren().add(emsSubmitButton);
-		
-		
-		for (javafx.scene.Node node : emsSubmitVBox.getChildren()) 
-		{
-			
-		    if (node instanceof Button button) 
-		    {
-		        button.setPrefHeight(50);
-		        button.setPrefWidth(300);
-		        button.setFont(Font.font("Menlo", FontWeight.BOLD, 16));
-		        button.setStyle("-fx-background-color: #ebeced;");
-		        button.setMaxWidth(300);
-		        button.setMaxHeight(50);
-		        button.setOnMouseEntered(event -> {button.setStyle("-fx-background-color: #4699f2");});
-		        button.setOnMouseExited(event -> {button.setStyle("-fx-background-color: #ebeced;");});
-		        button.setOnMousePressed(event -> {button.setStyle("-fx-background-color: #316dad;");});
-		        button.setOnMouseReleased(event ->{button.setStyle("-fx-background-color:  #4699f2;");});
-		        button.setCursor(Cursor.HAND);
-	    	}
-		    
-		}
-		
 
-		
-		
-		return emsSubmitVBox;
-	}
 }

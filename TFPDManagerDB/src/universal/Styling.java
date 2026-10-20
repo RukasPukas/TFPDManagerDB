@@ -12,4 +12,10 @@ public class Styling
 		LinearGradient logoTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#4872b5")));
 		return logoTextGradient;
 	}
+	
+	public static LinearGradient fireGradient()
+	{
+		LinearGradient fireTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#f20a21")));
+		return fireTextGradient;
+	}
 }

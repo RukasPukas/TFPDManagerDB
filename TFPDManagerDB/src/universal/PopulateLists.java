@@ -206,5 +206,68 @@ public class PopulateLists
 
 	    return selectableDispositions;
 	}
+	
+	public static ObservableList<String> fireDisposition() throws SQLException
+	{
+	    ObservableList<String> selectableDispositions =  FXCollections.observableArrayList();
 
+
+		    
+	        String dispositionTypesSQL = """
+	                SELECT fireDisposition
+	                FROM firedispositions
+	                WHERE fireDisposition IS NOT NULL
+	                ORDER BY fireDisposition ASC
+	                """;
+
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(dispositionTypesSQL)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	selectableDispositions.add(results.getString("fireDisposition"));
+	                }
+	            }
+	        }
+
+	    return selectableDispositions;
+	}
+
+	public static ObservableList<String> fdListsService() throws SQLException
+	{
+	    ObservableList<String> selectableFDs =  FXCollections.observableArrayList();
+
+
+		    
+	        String fdSQL = """
+	                SELECT fdName
+	                FROM firedepartments
+	                WHERE fdName IS NOT NULL
+	                ORDER BY fdName ASC
+	                """;
+
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(fdSQL)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	selectableFDs.add(results.getString("fdName"));
+	                }
+	            }
+	        }
+
+	    return selectableFDs;
+	}
 }

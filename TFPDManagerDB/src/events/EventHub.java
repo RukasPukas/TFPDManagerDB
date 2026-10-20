@@ -42,9 +42,18 @@ public class EventHub
 		fireButton.setOnMouseEntered(event -> fireButton.setStyle("-fx-background-color: #f20707;"));
 		fireButton.setOnMouseExited(event -> fireButton.setStyle("-fx-background-color: #c21717;"));
 		fireButton.setTextFill(Color.WHITE);
-		fireButton.setOnMouseExited(event -> 
+		fireButton.setOnMouseClicked(event -> 
 		{
-			
+			try 
+			{
+				System.out.println(enteredUsername + " pressed add Fire Event Button");
+				FireEvent.fireEventInitalizer(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
+			} 
+			catch (SQLException e) 
+			{
+				System.out.println("Failed to load database");
+				e.printStackTrace();
+			}
 			
 		});
 
@@ -59,10 +68,11 @@ public class EventHub
 			try 
 			{
 				EMSEvent.emsEventInitalizer( enteredUsername,  userSecurityLevel,  mainArea,  navBar,  root,  scene);
+				System.out.println(enteredUsername + " pressed add EMS Event Button");
 			} 
 			catch (SQLException e) 
 			{
-				System.out.println("Failed to load EMS users");
+				System.out.println("Failed to load database.");
 				e.printStackTrace();
 			}
 			
