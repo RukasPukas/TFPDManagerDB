@@ -1,9 +1,0 @@
-package events;
-
-public class EMSDisposition 
-{
-	public static GridPane emsDispositionSection()
-	{
-		
-	}
-}

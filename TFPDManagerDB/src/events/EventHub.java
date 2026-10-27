@@ -51,7 +51,7 @@ public class EventHub
 			} 
 			catch (SQLException e) 
 			{
-				System.out.println("Failed to load database");
+				System.out.println("Failed to load databases for fire events");
 				e.printStackTrace();
 			}
 			
@@ -72,7 +72,7 @@ public class EventHub
 			} 
 			catch (SQLException e) 
 			{
-				System.out.println("Failed to load database.");
+				System.out.println("Failed to load databases for ems events.");
 				e.printStackTrace();
 			}
 			
@@ -84,6 +84,22 @@ public class EventHub
 		trainingButton.setOnMouseEntered(event -> trainingButton.setStyle("-fx-background-color: #c9c608;"));
 		trainingButton.setOnMouseExited(event -> trainingButton.setStyle("-fx-background-color: #9e9c08;"));
 		trainingButton.setTextFill(Color.WHITE);
+		trainingButton.setOnMouseClicked(event -> 
+		{
+			try 
+			{
+				System.out.println(enteredUsername + " pressed add Training Event Button");
+				TrainingEvent.trainingEventInitalizer(enteredUsername, userSecurityLevel, mainArea, navBar, root, scene);
+			} 
+			catch (SQLException e) 
+			{
+				System.out.println("Failed to load database for training events");
+				e.printStackTrace();
+			}
+			
+		});
+
+	    
 	    
 		mainArea.getChildren().addAll(fireButton,emsButton,trainingButton);
 

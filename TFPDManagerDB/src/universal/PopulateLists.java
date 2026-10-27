@@ -270,4 +270,68 @@ public class PopulateLists
 
 	    return selectableFDs;
 	}
+	
+	public static ObservableList<String> departmentVehicles() throws SQLException
+	{
+	    ObservableList<String> seletableVehicles =  FXCollections.observableArrayList();
+
+
+		    
+	        String fdSQL = """
+	                SELECT vehicleName
+	                FROM fdvehicles
+	                WHERE vehicleName IS NOT NULL
+	                ORDER BY vehicleName ASC
+	                """;
+
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(fdSQL)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	seletableVehicles.add(results.getString("vehicleName"));
+	                }
+	            }
+	        }
+
+	    return seletableVehicles;
+	}
+	
+	public static ObservableList<String> mainTrainingTypes() throws SQLException
+	{
+	    ObservableList<String> selectableMainTrainingTypes =  FXCollections.observableArrayList();
+
+
+		    
+	        String mainTrainingSQL = """
+	                SELECT mainTrainingTypes
+	                FROM maintrainingtypes
+	                WHERE mainTrainingTypes IS NOT NULL
+	                ORDER BY mainTrainingTypes ASC
+	                """;
+
+	        
+	        try (Connection connection = DatabaseConnection.getConnection(); 
+	        		PreparedStatement checkStatement = connection.prepareStatement(mainTrainingSQL)) 
+	        {
+
+
+	            
+	            try (ResultSet results = checkStatement.executeQuery())
+	            {
+	                while (results.next())
+	                {
+	                	selectableMainTrainingTypes.add(results.getString("mainTrainingTypes"));
+	                }
+	            }
+	        }
+
+	    return selectableMainTrainingTypes;
+	}
 }

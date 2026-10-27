@@ -1,0 +1,184 @@
+package events;
+
+import java.sql.SQLException;
+
+import application.UserOptionsHub;
+import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
+import javafx.geometry.Insets;
+import javafx.scene.Cursor;
+import javafx.scene.Group;
+import javafx.scene.Scene;
+import javafx.scene.control.ComboBox;
+import javafx.scene.control.ListCell;
+import javafx.scene.control.ListView;
+import javafx.scene.control.ScrollPane;
+import javafx.scene.control.SelectionMode;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.GridPane;
+import javafx.scene.layout.Priority;
+import javafx.scene.layout.VBox;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
+import universal.PopulateLists;
+import universal.Styling;
+
+public class TrainingEvent 
+{
+	public static void trainingEventInitalizer(String enteredUsername, int userSecurityLevel, VBox mainArea, VBox navBar, Group root, Scene scene) throws SQLException
+	{
+		mainArea.getChildren().clear();
+		UserOptionsHub.setUpUserOptionVBox(mainArea, navBar, root, scene);
+		
+		
+		//main VBox
+	    VBox trainingInformationArea = new VBox();
+	    trainingInformationArea.setSpacing(20);
+	    trainingInformationArea.setPadding(new Insets(10));
+	    
+	    //Fire Event Header Text
+		Text trainingHeaderText = new Text("Add Training Event");
+		Styling.fireGradient();
+		trainingHeaderText.setFill(Styling.trainingGradient());
+		trainingHeaderText.setFont(Font.font("Menlo",FontWeight.BOLD,24));
+		
+		
+        Text trainingTypePrompt = new Text("Select Training Type:");
+        trainingTypePrompt.setFill(Styling.trainingGradient());
+        trainingTypePrompt.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+
+        
+		ObservableList<String> trainingTypes = PopulateLists.mainTrainingTypes();
+		ComboBox<String> trainingTypeComboBox = new ComboBox<>(trainingTypes);
+		trainingTypeComboBox.getSelectionModel().clearSelection();
+		trainingTypeComboBox.setPromptText("Select Training Category:");
+		trainingTypeComboBox.setMaxWidth(300);
+		trainingTypeComboBox.setCursor(Cursor.HAND);
+		trainingTypeComboBox.setStyle("-fx-font-family: 'Menlo';" +"-fx-font-weight: bold;" +"-fx-font-size: 14px;");
+		
+		
+		GridPane trainingInformationSection = new GridPane();
+
+        Text trainingLeadPrompt = new Text("Training Lead:");
+        trainingLeadPrompt.setFill(Styling.trainingGradient());
+        trainingLeadPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(trainingLeadPrompt, new Insets(0, 15, 50, 0));
+        
+        
+		ObservableList<String> selectableUsers = PopulateLists.allPersonell(); 
+		ComboBox<String> trainingLeadComboBox = new ComboBox<>(selectableUsers);
+		trainingLeadComboBox.getSelectionModel().clearSelection();
+		trainingLeadComboBox.setPromptText("Select Training Lead:");
+		trainingLeadComboBox.setMaxWidth(300);
+		trainingLeadComboBox.setCursor(Cursor.HAND);
+        GridPane.setMargin(trainingLeadComboBox, new Insets(0, 15, 0, 10));
+        trainingLeadComboBox.setStyle("-fx-font-family: 'Menlo';" +"-fx-font-weight: bold;" +"-fx-font-size: 14px;");
+        
+        Text helperPrompt = new Text("(Select most senior member if not applicable)");
+        helperPrompt.setFill(Styling.trainingGradient());
+        helperPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,12));
+        GridPane.setMargin(helperPrompt, new Insets(0, 15, 0, 10));
+        
+        Text additionalMembers = new Text("Additional Members:");
+        additionalMembers.setFill(Styling.trainingGradient());
+        additionalMembers.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(additionalMembers, new Insets(0, 15, 50, 0));
+        
+        ListView<String> allPersonellList =new ListView<>(selectableUsers);
+
+        allPersonellList.setMinSize(300, 150);
+        allPersonellList.setPrefSize(300, 150);
+        allPersonellList.setMaxSize(300, 150);
+        allPersonellList.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
+        allPersonellList.setStyle(
+                "-fx-selection-bar: #39414d;" +
+                "-fx-selection-bar-non-focused: #a4ad1d;" +
+                "-fx-selection-bar-text: white;"
+        );
+        GridPane.setMargin(allPersonellList, new Insets(75, 30, 0, 25));
+        allPersonellList.setCellFactory(listView -> //for selection of multiple list cells members
+        {
+            ListCell<String> cell = new ListCell<>()
+            {
+                protected void updateItem(String item, boolean empty)
+                {
+                    super.updateItem(item, empty);
+
+                    if (empty || item == null)
+                    {
+                        setText(null);
+                    }
+                    else
+                    {
+                        setText(item);
+                    }
+                }
+            };
+
+            cell.addEventFilter(MouseEvent.MOUSE_PRESSED, event ->
+            {
+                if (!cell.isEmpty())
+                {
+                    int index = cell.getIndex();
+
+                    if (allPersonellList.getSelectionModel().isSelected(index))
+                    {
+                    	allPersonellList.getSelectionModel().clearSelection(index);
+                    }
+                    else
+                    {
+                    	allPersonellList.getSelectionModel().select(index);
+                    }
+
+                    event.consume();
+                }
+            });
+
+            return cell;
+        });
+        
+        Text durationPrompt = new Text("Duration in Hours:");
+        durationPrompt.setFill(Styling.trainingGradient());
+        durationPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(durationPrompt, new Insets(0, 15, 50, 0));
+        
+        ObservableList<String> durationList = FXCollections.observableArrayList("1","1.5","2","2.5","3","3.5","4","4.5","5","5.5","6","6.5","7","7.5","8","8.5","9","9.5","10");
+		ComboBox<String> durationComboBox = new ComboBox<>(durationList);
+		durationComboBox.getSelectionModel().clearSelection();
+		durationComboBox.setPromptText("Select Training Category:");
+		durationComboBox.setMaxWidth(300);
+		durationComboBox.setCursor(Cursor.HAND);
+		durationComboBox.setStyle("-fx-font-family: 'Menlo';" +"-fx-font-weight: bold;" +"-fx-font-size: 14px;");
+		GridPane.setMargin(durationComboBox, new Insets(75, 10, 0, 25));
+        
+        
+        //column -> Row
+        trainingInformationSection.add(trainingLeadPrompt, 0, 0);
+        trainingInformationSection.add(trainingLeadComboBox, 1, 0);
+        trainingInformationSection.add(helperPrompt, 2, 0);
+        trainingInformationSection.add(additionalMembers, 0, 1);
+        trainingInformationSection.add(allPersonellList, 1, 1);
+        trainingInformationSection.add(durationPrompt, 2, 1);
+        trainingInformationSection.add(durationComboBox, 3, 1);
+		
+		
+		
+		
+		trainingInformationArea.getChildren().add(trainingHeaderText);
+		trainingInformationArea.getChildren().add(trainingTypePrompt);
+		trainingInformationArea.getChildren().add(trainingTypeComboBox);
+		trainingInformationArea.getChildren().add(trainingInformationSection);
+
+		
+	    ScrollPane trainingInformationScroll = new ScrollPane(trainingInformationArea);
+	    trainingInformationScroll.setFitToWidth(true);
+
+	    VBox.setVgrow(trainingInformationScroll,Priority.ALWAYS);
+	    
+	    mainArea.getChildren().add(trainingInformationScroll);
+		
+	}
+	
+	
+}

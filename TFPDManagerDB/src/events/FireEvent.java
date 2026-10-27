@@ -155,13 +155,83 @@ public class FireEvent
         }));
         
         Text hourExamplePrompt = new Text("(Example: 0630)");
-        hourExamplePrompt.setFill(Styling.logoGradient());
+        hourExamplePrompt.setFill(Styling.fireGradient());
         hourExamplePrompt.setFont(Font.font("Menlo",FontWeight.BOLD,12));
         GridPane.setMargin(hourExamplePrompt, new Insets(0,25,0,0));
         
         dispatchSection.add(timeCallLabel, 0, 2);
         dispatchSection.add(hourTF, 1, 2);
         dispatchSection.add(hourExamplePrompt, 2, 2);
+        
+        Text uitilzedAssets = new Text("Utilized Apparatus:");
+        uitilzedAssets.setFill(Styling.logoGradient());
+        uitilzedAssets.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(uitilzedAssets, new Insets(0, 15, 50, 0));
+        
+        
+        ObservableList<String> allApparati =
+                FXCollections.observableArrayList(PopulateLists.departmentVehicles());
+        
+
+        ListView<String> allApparatiList =new ListView<>(allApparati);
+
+        allApparatiList.setMinSize(300, 150);
+        allApparatiList.setPrefSize(300, 150);
+        allApparatiList.setMaxSize(300, 150);
+        allApparatiList.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
+        allApparatiList.setStyle(
+                "-fx-selection-bar: #39414d;" +
+                "-fx-selection-bar-non-focused: #d4000e;" +
+                "-fx-selection-bar-text: white;"
+        );
+        GridPane.setMargin(allApparatiList, new Insets(75, 30, 0, 25));
+        allApparatiList.setCellFactory(listView -> //for selection of multiple list cells members
+        {
+            ListCell<String> cell = new ListCell<>()
+            {
+                protected void updateItem(String item, boolean empty)
+                {
+                    super.updateItem(item, empty);
+
+                    if (empty || item == null)
+                    {
+                        setText(null);
+                    }
+                    else
+                    {
+                        setText(item);
+                    }
+                }
+            };
+
+            cell.addEventFilter(MouseEvent.MOUSE_PRESSED, event ->
+            {
+                if (!cell.isEmpty())
+                {
+                    int index = cell.getIndex();
+
+                    if (allApparatiList.getSelectionModel().isSelected(index))
+                    {
+                    	allApparatiList.getSelectionModel().clearSelection(index);
+                    }
+                    else
+                    {
+                    	allApparatiList.getSelectionModel().select(index);
+                    }
+
+                    event.consume();
+                }
+            });
+
+            return cell;
+        });
+        
+        
+        
+        
+        
+        dispatchSection.add(uitilzedAssets, 0, 3);
+        dispatchSection.add(allApparatiList, 1, 3);
         
         //begin call lead section
 		GridPane fireCommandGPaneSection = new GridPane();

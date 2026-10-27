@@ -100,6 +100,11 @@ public class EMSEvent
         noLeadingPrompt.setFill(Styling.logoGradient());
         noLeadingPrompt.setFont(Font.font("Menlo",FontWeight.BOLD,12));
         GridPane.setMargin(noLeadingPrompt, new Insets(0,10,0,0));
+        
+        
+        
+
+        
 
         
         // column -> Row
@@ -107,6 +112,7 @@ public class EMSEvent
         dispatchSection.add(runYearTF, 1, 0);
         dispatchSection.add(runNumberTF, 2, 0);
         dispatchSection.add(noLeadingPrompt, 3, 0);
+
 
         
         Platform.runLater(() -> runNumberTF.requestFocus());
@@ -163,6 +169,77 @@ public class EMSEvent
         dispatchSection.add(timeCallLabel, 0, 2);
         dispatchSection.add(hourTF, 1, 2);
         dispatchSection.add(hourExamplePrompt, 2, 2);
+        
+        
+        Text uitilzedAssets = new Text("Utilized Apparatus:");
+        uitilzedAssets.setFill(Styling.logoGradient());
+        uitilzedAssets.setFont(Font.font("Menlo",FontWeight.BOLD,18));
+        GridPane.setMargin(uitilzedAssets, new Insets(0, 15, 50, 0));
+        
+        
+        ObservableList<String> allApparati =
+                FXCollections.observableArrayList(PopulateLists.departmentVehicles());
+        
+
+        ListView<String> allApparatiList =new ListView<>(allApparati);
+
+        allApparatiList.setMinSize(300, 150);
+        allApparatiList.setPrefSize(300, 150);
+        allApparatiList.setMaxSize(300, 150);
+        allApparatiList.getSelectionModel().setSelectionMode(SelectionMode.MULTIPLE);
+        allApparatiList.setStyle(
+                "-fx-selection-bar: #39414d;" +
+                "-fx-selection-bar-non-focused: #22d4b0;" +
+                "-fx-selection-bar-text: white;"
+        );
+        GridPane.setMargin(allApparatiList, new Insets(75, 30, 0, 25));
+        allApparatiList.setCellFactory(listView -> //for selection of multiple list cells members
+        {
+            ListCell<String> cell = new ListCell<>()
+            {
+                protected void updateItem(String item, boolean empty)
+                {
+                    super.updateItem(item, empty);
+
+                    if (empty || item == null)
+                    {
+                        setText(null);
+                    }
+                    else
+                    {
+                        setText(item);
+                    }
+                }
+            };
+
+            cell.addEventFilter(MouseEvent.MOUSE_PRESSED, event ->
+            {
+                if (!cell.isEmpty())
+                {
+                    int index = cell.getIndex();
+
+                    if (allApparatiList.getSelectionModel().isSelected(index))
+                    {
+                    	allApparatiList.getSelectionModel().clearSelection(index);
+                    }
+                    else
+                    {
+                    	allApparatiList.getSelectionModel().select(index);
+                    }
+
+                    event.consume();
+                }
+            });
+
+            return cell;
+        });
+        
+        
+        
+        
+        
+        dispatchSection.add(uitilzedAssets, 0, 3);
+        dispatchSection.add(allApparatiList, 1, 3);
         
         
         //begin call lead section

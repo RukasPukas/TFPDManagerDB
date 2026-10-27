@@ -18,4 +18,10 @@ public class Styling
 		LinearGradient fireTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#f20a21")));
 		return fireTextGradient;
 	}
+	
+	public static LinearGradient trainingGradient()
+	{
+		LinearGradient fireTextGradient = new LinearGradient(0, 0,0, 1,true,CycleMethod.NO_CYCLE,new Stop(0, Color.web("#39414d")),new Stop(1, Color.web("#a39f1a")));
+		return fireTextGradient;
+	}
 }
